@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React from Abdullah and Hamza and Ushna
+          Learn React from Abdullah and Hamza and Ushna dkwwjn
         </a>
       </header>}
     </div>
