@@ -140,7 +140,7 @@
   position: absolute;
   top: 738px;
   left: 160px;
-  font-size: 40px;
+  font-size: var(--font-size-21xl);
   font-family: var(--font-tomorrow);
   color: var(--white);
   display: inline-block;

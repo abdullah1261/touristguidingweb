@@ -12,7 +12,7 @@ const Login = () => {
 
   return (
     <div className={styles.login}>
-      <img className={styles.navbarIcon} alt="" src="/navbar1.svg" />
+      <img className={styles.navbarIcon} alt="" src="/navbar2.svg" />
       <div className={styles.menu}>
         <div className={styles.frameParent}>
           <div className={styles.rectangleParent}>
@@ -49,7 +49,7 @@ const Login = () => {
           </div>
         </div>
         <div className={styles.vectorWrapper}>
-          <img className={styles.vectorIcon} alt="" src="/vector-3.svg" />
+          <img className={styles.vectorIcon} alt="" src="/vector.svg" />
         </div>
       </div>
       <img className={styles.loginChild} alt="" src="/rectangle-8@2x.png" />
@@ -86,7 +86,7 @@ const Login = () => {
           Login with the data you entered during your registration.
         </div>
         <div className={styles.login2}>Login</div>
-        <img className={styles.logoIcon} alt="" src="/logo.svg" />
+        <img className={styles.logoIcon} alt="" src="/logo2.svg" />
       </div>
       <div className={styles.menu1}>
         <div className={styles.frameParent}>
@@ -124,7 +124,7 @@ const Login = () => {
           </div>
         </div>
         <div className={styles.vectorWrapper}>
-          <img className={styles.vectorIcon} alt="" src="/vector-3.svg" />
+          <img className={styles.vectorIcon} alt="" src="/vector.svg" />
         </div>
       </div>
     </div>

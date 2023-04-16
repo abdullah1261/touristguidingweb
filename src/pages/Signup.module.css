@@ -6,157 +6,215 @@
   height: 90px;
   overflow: hidden;
 }
-.frameChild {
-  position: absolute;
-  top: 10px;
-  left: 10px;
-  border-radius: var(--br-3xs);
-  background-color: var(--color-saddlebrown);
-  width: 158px;
-  height: 47px;
-}
-.activities {
-  position: absolute;
-  top: 18px;
-  left: 39px;
-  letter-spacing: 0.01em;
-}
-.rectangleParent {
-  position: relative;
-  width: 178px;
-  height: 67px;
-  flex-shrink: 0;
-}
-.contactUs,
-.eat,
-.gallery,
-.kahani,
-.news,
-.recs {
-  position: absolute;
-  top: 18px;
-  left: 60px;
-  letter-spacing: 0.01em;
-}
-.contactUs,
-.eat,
-.gallery,
-.kahani,
-.recs {
-  left: 70px;
-}
-.contactUs,
-.gallery,
-.kahani,
-.recs {
-  left: 52px;
-}
-.contactUs,
-.gallery,
-.recs {
-  left: 51px;
-}
-.contactUs,
-.recs {
-  left: 65px;
-}
-.contactUs {
-  left: 30px;
-}
-.frameParent {
-  position: absolute;
-  height: 90.08%;
-  width: 99.94%;
-  top: 9.92%;
-  right: 0.06%;
-  bottom: 0;
-  left: 0;
-  display: none;
-  flex-direction: column;
-  align-items: flex-start;
-  justify-content: flex-start;
-}
-.vector3Icon {
-  position: relative;
-  width: 34.11px;
-  height: 25.83px;
-  flex-shrink: 0;
-}
-.vector3Wrapper {
-  position: absolute;
-  height: 7.7%;
-  width: 30.38%;
-  top: 0;
-  right: 0;
-  bottom: 92.3%;
-  left: 69.62%;
-  display: flex;
-  flex-direction: column;
-  padding: var(--padding-3xs);
-  box-sizing: border-box;
-  align-items: flex-start;
-  justify-content: flex-start;
-}
-.menu {
-  position: absolute;
-  top: 12px;
-  left: 1250px;
-  width: 178.11px;
-  height: 595px;
-  text-align: center;
-  font-size: var(--font-size-6xl);
-  color: var(--color-burlywood);
-  font-family: var(--font-im-fell-great-primer);
-}
 .signupChild {
   position: absolute;
   top: 232px;
   left: 720px;
-  background-color: #582626;
+  background-color: #9e6240;
   width: 644px;
   height: 559px;
 }
-.signUp {
+.facebook {
   position: absolute;
-  top: 359px;
-  left: 998px;
+  top: 9px;
+  left: 74px;
+}
+.facebookParent,
+.ictwotoneFacebookIcon {
+  position: absolute;
+  overflow: hidden;
+}
+.ictwotoneFacebookIcon {
+  top: 5px;
+  left: 34px;
+  width: 30px;
+  height: 30px;
+}
+.facebookParent {
+  top: 716px;
+  left: 1060px;
+  border-radius: var(--br-5xs);
+  border: 1px solid var(--color-snow-100);
+  box-sizing: border-box;
+  width: 225px;
+  height: 40px;
+  font-size: var(--font-size-lg);
+  color: var(--white);
+}
+.alreadyHaveAn,
+.firstName {
+  position: absolute;
+  top: 676px;
+  left: 787px;
   display: inline-block;
-  width: 341px;
-  height: 153px;
+  width: 273px;
 }
-.signupInner,
+.firstName {
+  top: 335px;
+  width: 145px;
+}
+.cpassInputField,
+.passInputField {
+  position: absolute;
+  top: 544px;
+  left: 1060px;
+  border-radius: var(--br-5xs);
+  border: 1px solid var(--color-lavenderblush);
+  box-sizing: border-box;
+  width: 269px;
+  height: 41px;
+  overflow: hidden;
+}
+.passInputField {
+  left: 774px;
+  width: 268px;
+}
+.email,
+.password {
+  position: absolute;
+  top: 428px;
+  left: 787px;
+  display: inline-block;
+  width: 145px;
+}
+.password {
+  top: 521px;
+}
+.mailInputField {
+  position: absolute;
+  top: 451px;
+  left: 773px;
+  border-radius: var(--br-5xs);
+  border: 1px solid #fcf7f7;
+  box-sizing: border-box;
+  width: 556px;
+  height: 41px;
+  overflow: hidden;
+}
+.confirmPassword {
+  position: absolute;
+  top: 521px;
+  left: 1068px;
+  display: inline-block;
+  width: 145px;
+}
+.lnameInputField {
+  position: absolute;
+  top: 358px;
+  left: 1060px;
+  border-radius: var(--br-5xs);
+  border: 1px solid var(--color-lavenderblush);
+  box-sizing: border-box;
+  width: 269px;
+  height: 41px;
+  overflow: hidden;
+}
+.createAccount,
+.lastName {
+  position: absolute;
+  display: inline-block;
+}
+.lastName {
+  top: 339px;
+  left: 1087px;
+  width: 145px;
+}
+.createAccount {
+  top: 284px;
+  left: 918px;
+  font-size: 32px;
+  color: var(--white);
+  width: 266px;
+}
+.f08dfb3731B1Icon,
 .signupItem {
   position: absolute;
-  width: 644px;
-  height: 559px;
-}
-.signupItem {
   top: 232px;
   left: 76px;
-  background-color: #9e6240;
+  width: 644px;
+  height: 559px;
+}
+.signupItem {
+  background-color: #ecb99c;
+}
+.f08dfb3731B1Icon {
+  object-fit: cover;
+}
+.fnameInputField,
+.signupInner {
+  position: absolute;
 }
 .signupInner {
   top: 150.5px;
   left: -1396px;
+  width: 644px;
+  height: 559px;
 }
-.doNotHave,
-.signUp1 {
+.fnameInputField {
+  top: 358px;
+  left: 773px;
+  border-radius: var(--br-5xs);
+  border: 1px solid var(--color-lavenderblush);
+  box-sizing: border-box;
+  width: 269px;
+  height: 41px;
+  overflow: hidden;
+}
+.createAccount2 {
+  margin: 0;
+}
+.createAccountTxtContainer {
+  line-break: anywhere;
+  width: 100%;
+}
+.createAccount1 {
   position: absolute;
-  display: inline-block;
-}
-.doNotHave {
-  top: 632px;
-  left: 219px;
-  font-size: var(--text-xl-normal-size);
-  width: 324px;
+  top: calc(50% - 6.5px);
+  left: calc(50% - 58.5px);
+  display: flex;
+  align-items: center;
+  width: 145px;
   height: 30px;
-  cursor: pointer;
 }
-.signUp1 {
-  top: 362px;
-  left: 278px;
-  width: 341px;
-  height: 153px;
+.createAccountWrapper {
+  position: absolute;
+  top: 617px;
+  left: 773px;
+  border-radius: var(--br-5xs);
+  background-color: #120101;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 553px;
+  height: 47px;
+  overflow: hidden;
+  cursor: pointer;
+  text-align: center;
+}
+.google {
+  position: absolute;
+  top: 9px;
+  left: 76px;
+}
+.googleParent,
+.ionlogoGoogleIcon {
+  position: absolute;
+  overflow: hidden;
+}
+.ionlogoGoogleIcon {
+  top: 5px;
+  left: 36px;
+  width: 30px;
+  height: 30px;
+}
+.googleParent {
+  top: 716px;
+  left: 787px;
+  border-radius: var(--br-5xs);
+  border: 1px solid var(--color-snow-100);
+  box-sizing: border-box;
+  width: 225px;
+  height: 40px;
+  font-size: var(--font-size-lg);
+  color: var(--white);
 }
 .signup {
   position: relative;
@@ -165,7 +223,7 @@
   height: 1053px;
   overflow: hidden;
   text-align: left;
-  font-size: var(--display-md-semibold-size);
-  color: var(--white);
-  font-family: var(--text-md-medium);
+  font-size: var(--input-labels-size);
+  color: var(--color-whitesmoke-100);
+  font-family: var(--input-labels);
 }
