@@ -11,7 +11,7 @@
   top: 10px;
   left: 10px;
   border-radius: var(--br-3xs);
-  background-color: var(--color-saddlebrown);
+  background-color: var(--color-saddlebrown-100);
   width: 158px;
   height: 47px;
 }
@@ -30,33 +30,29 @@
 .contactUs,
 .eat,
 .gallery,
-.kahani,
+.kahani {
+  position: absolute;
+  top: 18px;
+  letter-spacing: 0.01em;
+}
+.news {
+  left: 60px;
+}
 .news,
 .recs {
   position: absolute;
   top: 18px;
-  left: 60px;
   letter-spacing: 0.01em;
 }
-.contactUs,
-.eat,
-.gallery,
-.kahani,
-.recs {
+.eat {
   left: 70px;
 }
-.contactUs,
-.gallery,
-.kahani,
-.recs {
+.kahani {
   left: 52px;
 }
-.contactUs,
-.gallery,
-.recs {
+.gallery {
   left: 51px;
 }
-.contactUs,
 .recs {
   left: 65px;
 }
@@ -83,7 +79,6 @@
   flex-shrink: 0;
 }
 .vectorWrapper {
-  position: absolute;
   height: 7.7%;
   width: 30.38%;
   top: 0;
@@ -98,8 +93,11 @@
   justify-content: flex-start;
 }
 .loginChild,
-.menu {
+.menu,
+.vectorWrapper {
   position: absolute;
+}
+.menu {
   top: 254px;
   left: 1161px;
   width: 178.11px;
@@ -122,10 +120,10 @@
 }
 .alreadyHaveAn {
   position: absolute;
-  top: 712px;
-  left: 114px;
+  top: 520px;
+  left: 249px;
   font-size: var(--text-xl-normal-size);
-  font-family: var(--text-md-medium);
+  font-family: var(--input-labels);
   color: var(--white);
   text-align: left;
   display: inline-block;
@@ -224,9 +222,11 @@
 .login2,
 .loginWithThe {
   position: absolute;
-  top: 51px;
   left: 0;
   line-height: 20px;
+}
+.loginWithThe {
+  top: 51px;
 }
 .login2 {
   top: 0;
@@ -253,9 +253,9 @@
   width: 583px;
   height: 447px;
   text-align: left;
-  font-size: var(--text-md-medium-size);
-  color: var(--color-whitesmoke);
-  font-family: var(--text-md-medium);
+  font-size: var(--input-labels-size);
+  color: var(--color-whitesmoke-200);
+  font-family: var(--input-labels);
 }
 .menu1 {
   top: 10px;
