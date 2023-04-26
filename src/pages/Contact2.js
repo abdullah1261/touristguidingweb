@@ -1,127 +1,126 @@
-import styles from "./Contact2.module.css";
-
+import "./Contact2.css";
 const Contact2 = () => {
   return (
-    <div className={styles.contact2}>
-      <div className={styles.sports}>
-        <div className={styles.sports1}>
-          <div className={styles.all}>
-            <div className={styles.allChild} />
-            <div className={styles.all1}>All</div>
+    <div className="contact21">
+      <div className="sports7">
+        <div className="sports8">
+          <div className="all9">
+            <div className="all-child2" />
+            <div className="all10">All</div>
           </div>
-          <div className={styles.football}>
-            <div className={styles.footballChild} />
-            <div className={styles.football1}>Football</div>
+          <div className="football7">
+            <div className="football-inner" />
+            <div className="football8">Football</div>
           </div>
-          <div className={styles.cricket}>
-            <div className={styles.cricketChild} />
-            <div className={styles.cricket1}>Cricket</div>
+          <div className="cricket7">
+            <div className="cricket-child1" />
+            <div className="cricket8">Cricket</div>
           </div>
-          <div className={styles.basketball}>
-            <div className={styles.basketballChild} />
-            <div className={styles.basketball1}>Basketball</div>
+          <div className="basketball2">
+            <div className="basketball-item" />
+            <div className="basketball3">Basketball</div>
           </div>
-          <div className={styles.badminton}>
-            <div className={styles.badmintonChild} />
-            <div className={styles.badminton1}>{`Badminton `}</div>
+          <div className="badminton2">
+            <div className="badminton-item" />
+            <div className="badminton3">{`Badminton `}</div>
           </div>
-          <div className={styles.boxing}>
-            <div className={styles.boxingChild} />
-            <div className={styles.boxing1}>Boxing</div>
+          <div className="boxing2">
+            <div className="boxing-item" />
+            <div className="boxing3">Boxing</div>
           </div>
-          <div className={styles.esports}>
-            <div className={styles.esportsChild} />
-            <div className={styles.cricket1}>Esports</div>
+          <div className="esports2">
+            <div className="esports-item" />
+            <div className="cricket8">Esports</div>
           </div>
-          <img className={styles.buttonIcon} alt="" src="/button.svg" />
-          <div className={styles.sports2}>Sports</div>
+          <img className="button-icon4" alt="" src="/button3.svg" />
+          <div className="sports9">Sports</div>
         </div>
-        <img className={styles.lineIcon} alt="" src="/line.svg" />
-        <div className={styles.post1}>
-          <img className={styles.imageIcon} alt="" src="/image9@2x.png" />
-          <div className={styles.craigBatorContainer}>
+        <img className="line-icon6" alt="" src="/line3.svg" />
+        <div className="post-16">
+          <img className="image-icon54" alt="" src="/image54@2x.png" />
+          <div className="craig-bator-container29">
             <span>Craig Bator -</span>
-            <span className={styles.span}>{` `}</span>
-            <span className={styles.dec2020}>27 Dec 2020</span>
+            <span className="span29">{` `}</span>
+            <span className="dec-202029">27 Dec 2020</span>
           </div>
-          <div className={styles.solskjaerDismissesKlopp}>
+          <div className="solskjaer-dismisses-klopp1">
             Solskjaer dismisses Klopp comments on Man Utd penalty record
           </div>
-          <div className={styles.loremIpsumDolor}>
+          <div className="lorem-ipsum-dolor5">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Faucibus
             lobortis augue condimentum maecenas. Metus at in fames vitae posuere
             ut vel vulputate ...
           </div>
-          <div className={styles.cricket2}>
-            <div className={styles.cricketItem} />
-            <div className={styles.cricket3}>Cricket</div>
+          <div className="cricket9">
+            <div className="cricket-child2" />
+            <div className="cricket10">Cricket</div>
           </div>
         </div>
-        <div className={styles.post2}>
-          <img className={styles.imageIcon1} alt="" src="/image10@2x.png" />
-          <div className={styles.craigBatorContainer1}>
+        <div className="post-26">
+          <img className="image-icon55" alt="" src="/image55@2x.png" />
+          <div className="craig-bator-container30">
             <span>Craig Bator -</span>
-            <span className={styles.span}>{` `}</span>
-            <span className={styles.dec2020}>27 Dec 2020</span>
+            <span className="span29">{` `}</span>
+            <span className="dec-202029">27 Dec 2020</span>
           </div>
-          <div className={styles.southAfricaHammerContainer}>
-            <p className={styles.southAfricaHammer}>
+          <div className="njncjksnxcjsxlsanxalmxslxalkxk">
+            <p className="south-africa-hammer1">
               South Africa hammer injury-hit Sri Lanka
             </p>
-            <p className={styles.southAfricaHammer}>Player</p>
+            <p className="south-africa-hammer1">Player</p>
           </div>
         </div>
-        <div className={styles.post3}>
-          <img className={styles.imageIcon1} alt="" src="/image11@2x.png" />
-          <div className={styles.craigBatorContainer2}>
+        <div className="post-36">
+          <img className="image-icon55" alt="" src="/image56@2x.png" />
+          <div className="craig-bator-container31">
             <span>Craig Bator -</span>
-            <span className={styles.span}>{` `}</span>
-            <span className={styles.dec2020}>27 Dec 2020</span>
+            <span className="span29">{` `}</span>
+            <span className="dec-202029">27 Dec 2020</span>
           </div>
-          <div className={styles.southAfricaHammerContainer}>
+          <div className="njncjksnxcjsxlsanxalmxslxalkxk">
             \njncjksnxcjsxlsanxalmxslxalkxklanklanxjkanjkoa
           </div>
         </div>
-        <div className={styles.post4}>
-          <img className={styles.imageIcon1} alt="" src="/image12@2x.png" />
-          <div className={styles.craigBatorContainer2}>
+        <div className="post-46">
+          <img className="image-icon55" alt="" src="/image57@2x.png" />
+          <div className="craig-bator-container31">
             <span>Craig Bator -</span>
-            <span className={styles.span}>{` `}</span>
-            <span className={styles.dec2020}>27 Dec 2020</span>
+            <span className="span29">{` `}</span>
+            <span className="dec-202029">27 Dec 2020</span>
           </div>
-          <div className={styles.jsdbvjl}>
-            <p className={styles.southAfricaHammer}>
+          <div className="jsdbvjl">
+            <p className="south-africa-hammer1">
               The only thing that overcomes hard luck is hard
             </p>
-            <p className={styles.southAfricaHammer}>work</p>
+            <p className="south-africa-hammer1">work</p>
           </div>
         </div>
-        <div className={styles.post5}>
-          <img className={styles.imageIcon1} alt="" src="/image13@2x.png" />
-          <div className={styles.craigBatorContainer2}>
+        <div className="post-54">
+          <img className="image-icon55" alt="" src="/image58@2x.png" />
+          <div className="craig-bator-container31">
             <span>Craig Bator -</span>
-            <span className={styles.span}>{` `}</span>
-            <span className={styles.dec2020}>27 Dec 2020</span>
+            <span className="span29">{` `}</span>
+            <span className="dec-202029">27 Dec 2020</span>
           </div>
-          <div className={styles.southAfricaHammerContainer}>
-            <p className={styles.southAfricaHammer}>
+          <div className="njncjksnxcjsxlsanxalmxslxalkxk">
+            <p className="south-africa-hammer1">
               Success is not a good teacher failure makes you
             </p>
-            <p className={styles.southAfricaHammer}>humble</p>
+            <p className="south-africa-hammer1">humble</p>
           </div>
         </div>
-        <div className={styles.post6}>
-          <img className={styles.imageIcon1} alt="" src="/image14@2x.png" />
-          <div className={styles.craigBatorContainer5}>
+        <div className="post-63">
+          <img className="image-icon55" alt="" src="/image59@2x.png" />
+          <div className="craig-bator-container34">
             <span>Craig Bator -</span>
-            <span className={styles.span}>{` `}</span>
-            <span className={styles.dec2020}>27 Dec 2020</span>
+            <span className="span29">{` `}</span>
+            <span className="dec-202029">27 Dec 2020</span>
           </div>
-          <div className={styles.southAfricaHammerContainer}>
-            <p className={styles.southAfricaHammer}>
+          <div className="njncjksnxcjsxlsanxalmxslxalkxk">
+            <p className="south-africa-hammer1">
               Rahane-led India bury ghosts of Adelaide at
             </p>
-            <p className={styles.southAfricaHammer}>Melbourne</p>
+            <p className="south-africa-hammer1">Melbourne</p>
           </div>
         </div>
       </div>

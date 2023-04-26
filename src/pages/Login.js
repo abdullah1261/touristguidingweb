@@ -1,8 +1,7 @@
 import { useCallback } from "react";
 import { TextField } from "@mui/material";
 import { useNavigate } from "react-router-dom";
-import styles from "./Login.module.css";
-
+import "./Login.css";
 const Login = () => {
   const navigate = useNavigate();
 
@@ -11,68 +10,68 @@ const Login = () => {
   }, [navigate]);
 
   return (
-    <div className={styles.login}>
-      <img className={styles.navbarIcon} alt="" src="/navbar2.svg" />
-      <div className={styles.menu}>
-        <div className={styles.frameParent}>
-          <div className={styles.rectangleParent}>
-            <div className={styles.frameChild} />
-            <div className={styles.activities}>Activities</div>
+    <div className="login">
+      <img className="navbar-icon6" alt="" src="/navbar6.svg" />
+      <div className="menu7">
+        <div className="frame-parent">
+          <div className="rectangle-parent44">
+            <div className="frame-child" />
+            <div className="activities2">Activities</div>
           </div>
-          <div className={styles.rectangleParent}>
-            <div className={styles.frameChild} />
-            <div className={styles.news}>News</div>
+          <div className="rectangle-parent44">
+            <div className="frame-child" />
+            <div className="news1">News</div>
           </div>
-          <div className={styles.rectangleParent}>
-            <div className={styles.frameChild} />
-            <div className={styles.eat}>Eat</div>
+          <div className="rectangle-parent44">
+            <div className="frame-child" />
+            <div className="eat2">Eat</div>
           </div>
-          <div className={styles.rectangleParent}>
-            <div className={styles.frameChild} />
-            <div className={styles.kahani}>Kahani</div>
+          <div className="rectangle-parent44">
+            <div className="frame-child" />
+            <div className="kahani">Kahani</div>
           </div>
-          <div className={styles.rectangleParent}>
-            <div className={styles.frameChild} />
-            <div className={styles.news}>Maps</div>
+          <div className="rectangle-parent44">
+            <div className="frame-child" />
+            <div className="news1">Maps</div>
           </div>
-          <div className={styles.rectangleParent}>
-            <div className={styles.frameChild} />
-            <div className={styles.gallery}>Gallery</div>
+          <div className="rectangle-parent44">
+            <div className="frame-child" />
+            <div className="gallery1">Gallery</div>
           </div>
-          <div className={styles.rectangleParent}>
-            <div className={styles.frameChild} />
-            <div className={styles.recs}>Recs</div>
+          <div className="rectangle-parent44">
+            <div className="frame-child" />
+            <div className="recs">Recs</div>
           </div>
-          <div className={styles.rectangleParent}>
-            <div className={styles.frameChild} />
-            <div className={styles.contactUs}>Contact Us</div>
+          <div className="rectangle-parent44">
+            <div className="frame-child" />
+            <div className="contact-us5">Contact Us</div>
           </div>
         </div>
-        <div className={styles.vectorWrapper}>
-          <img className={styles.vectorIcon} alt="" src="/vector.svg" />
+        <div className="vector-wrapper">
+          <img className="vector-icon" alt="" src="/vector.svg" />
         </div>
       </div>
-      <img className={styles.loginChild} alt="" src="/rectangle-8@2x.png" />
-      <div className={styles.loginItem} />
-      <div className={styles.alreadyHaveAn} onClick={onAlreadyHaveAnClick}>
+      <img className="login-child" alt="" src="/rectangle-8@2x.png" />
+      <div className="login-item" />
+      <div className="already-have-an1" onClick={onAlreadyHaveAnClick}>
         Already have an account? SignUp
       </div>
-      <img className={styles.loginInner} alt="" src="/rectangle-81.svg" />
-      <div className={styles.login1}>
-        <div className={styles.didYouForget}>Did you forget your password?</div>
-        <div className={styles.button}>
-          <div className={styles.logIn}>Log in</div>
+      <img className="login-inner" alt="" src="/rectangle-81.svg" />
+      <div className="login1">
+        <div className="did-you-forget">Did you forget your password?</div>
+        <div className="button1">
+          <div className="log-in">Log in</div>
         </div>
-        <div className={styles.inputPassword}>
-          <div className={styles.email}>Password</div>
-          <div className={styles.input}>
-            <div className={styles.johndoegmailcom}>***********</div>
+        <div className="input-password">
+          <div className="email1">Password</div>
+          <div className="input1">
+            <div className="johndoegmailcom">***********</div>
           </div>
         </div>
-        <div className={styles.inputEmail}>
-          <div className={styles.email}>Email</div>
+        <div className="input-email">
+          <div className="email1">Email</div>
           <TextField
-            className={styles.input1}
+            className="input2"
             color="primary"
             variant="outlined"
             type="text"
@@ -82,49 +81,49 @@ const Login = () => {
             margin="none"
           />
         </div>
-        <div className={styles.loginWithThe}>
+        <div className="login-with-the">
           Login with the data you entered during your registration.
         </div>
-        <div className={styles.login2}>Login</div>
-        <img className={styles.logoIcon} alt="" src="/logo2.svg" />
+        <div className="login2">Login</div>
+        <img className="logo-icon2" alt="" src="/logo2.svg" />
       </div>
-      <div className={styles.menu1}>
-        <div className={styles.frameParent}>
-          <div className={styles.rectangleParent}>
-            <div className={styles.frameChild} />
-            <div className={styles.activities}>Activities</div>
+      <div className="menu8">
+        <div className="frame-parent">
+          <div className="rectangle-parent44">
+            <div className="frame-child" />
+            <div className="activities2">Activities</div>
           </div>
-          <div className={styles.rectangleParent}>
-            <div className={styles.frameChild} />
-            <div className={styles.news}>News</div>
+          <div className="rectangle-parent44">
+            <div className="frame-child" />
+            <div className="news1">News</div>
           </div>
-          <div className={styles.rectangleParent}>
-            <div className={styles.frameChild} />
-            <div className={styles.eat}>Eat</div>
+          <div className="rectangle-parent44">
+            <div className="frame-child" />
+            <div className="eat2">Eat</div>
           </div>
-          <div className={styles.rectangleParent}>
-            <div className={styles.frameChild} />
-            <div className={styles.kahani}>Kahani</div>
+          <div className="rectangle-parent44">
+            <div className="frame-child" />
+            <div className="kahani">Kahani</div>
           </div>
-          <div className={styles.rectangleParent}>
-            <div className={styles.frameChild} />
-            <div className={styles.news}>Maps</div>
+          <div className="rectangle-parent44">
+            <div className="frame-child" />
+            <div className="news1">Maps</div>
           </div>
-          <div className={styles.rectangleParent}>
-            <div className={styles.frameChild} />
-            <div className={styles.gallery}>Gallery</div>
+          <div className="rectangle-parent44">
+            <div className="frame-child" />
+            <div className="gallery1">Gallery</div>
           </div>
-          <div className={styles.rectangleParent}>
-            <div className={styles.frameChild} />
-            <div className={styles.recs}>Recs</div>
+          <div className="rectangle-parent44">
+            <div className="frame-child" />
+            <div className="recs">Recs</div>
           </div>
-          <div className={styles.rectangleParent}>
-            <div className={styles.frameChild} />
-            <div className={styles.contactUs}>Contact Us</div>
+          <div className="rectangle-parent44">
+            <div className="frame-child" />
+            <div className="contact-us5">Contact Us</div>
           </div>
         </div>
-        <div className={styles.vectorWrapper}>
-          <img className={styles.vectorIcon} alt="" src="/vector.svg" />
+        <div className="vector-wrapper">
+          <img className="vector-icon" alt="" src="/vector.svg" />
         </div>
       </div>
     </div>

@@ -1,0 +1,567 @@
+@keyframes slide-in-left {
+  0% {
+    transform: translateX(-200px);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+.image-124-icon1,
+.image-125-icon1,
+.image-126-icon1 {
+  position: absolute;
+  top: 6px;
+  left: 437px;
+  width: 460px;
+  height: 839px;
+  object-fit: cover;
+  opacity: 0.44;
+}
+.image-124-icon1,
+.image-125-icon1 {
+  top: 0;
+  left: 912px;
+  width: 419px;
+  height: 845px;
+}
+.image-124-icon1 {
+  top: 6px;
+  left: 0;
+  width: 423px;
+  height: 839px;
+}
+.image-121-icon1,
+.image-122-icon1,
+.image-123-icon1 {
+  position: absolute;
+  top: 264px;
+  left: 476px;
+  border-radius: var(--br-40xl);
+  width: 368px;
+  height: 314px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.image-121-icon1,
+.image-123-icon1 {
+  left: 26px;
+  width: 370px;
+}
+.image-123-icon1 {
+  top: 266px;
+  left: 937px;
+  width: 368px;
+}
+.historical-site-visit2 {
+  position: absolute;
+  top: 614px;
+  left: 93px;
+  line-height: 56px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 261px;
+  height: 93px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.adrenaline-rush2 {
+  top: 610px;
+  left: 534px;
+  width: 261px;
+}
+.activities1,
+.adrenaline-rush2,
+.shopping2 {
+  position: absolute;
+  line-height: 56px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 93px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.activities1 {
+  top: 73px;
+  left: 382px;
+  font-size: var(--font-size-77xl);
+  width: 564px;
+}
+.shopping2 {
+  top: 610px;
+  left: 933px;
+  width: 398px;
+}
+.historical-site-visit3,
+.image-126-group {
+  font-size: var(--font-size-29xl);
+  color: var(--color-gray-100);
+}
+.image-126-group {
+  position: relative;
+  width: 1331px;
+  height: 845px;
+  flex-shrink: 0;
+}
+.historical-site-visit3 {
+  position: absolute;
+  top: 0;
+  left: 366px;
+  line-height: 56px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 898px;
+  height: 93px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.group-child12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-58xl);
+  background-color: var(--color-gray-400);
+  width: 627px;
+  height: 439px;
+}
+.image-118-icon1 {
+  position: absolute;
+  top: 30.63px;
+  left: 48.72px;
+  border-radius: var(--br-30xl);
+  width: 293.63px;
+  height: 377.74px;
+  object-fit: cover;
+}
+.the-wazir-khan1,
+.wazir-khan-mosque1 {
+  position: absolute;
+  top: 98px;
+  left: 363px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 228px;
+  height: 77px;
+}
+.the-wazir-khan1 {
+  top: 196.53px;
+  left: 383.38px;
+  font-size: var(--text-sm-normal-size);
+  color: var(--color-burlywood);
+  width: 192.33px;
+  height: 153.14px;
+}
+.group-child13,
+.rectangle-parent12 {
+  position: absolute;
+  top: 135px;
+  left: 0;
+  width: 627px;
+  height: 439px;
+}
+.group-child13 {
+  top: 0;
+  border-radius: var(--br-58xl);
+  background-color: var(--color-gray-500);
+  height: 429px;
+}
+.gali-surjan-singh2,
+.gali-surjan-singh3 {
+  position: absolute;
+  top: 105px;
+  left: 366px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 217px;
+  height: 75px;
+}
+.gali-surjan-singh3 {
+  top: 209px;
+  left: 378px;
+  font-size: var(--text-sm-normal-size);
+  color: var(--color-burlywood);
+  width: 192.33px;
+  height: 149.65px;
+}
+.image-119-icon14 {
+  position: absolute;
+  top: 29.93px;
+  left: 51.29px;
+  border-radius: var(--br-30xl);
+  width: 293.63px;
+  height: 369.14px;
+  object-fit: cover;
+}
+.rectangle-parent13 {
+  position: absolute;
+  top: 135px;
+  left: 995px;
+  width: 627px;
+  height: 429px;
+}
+.shalamar-gardens1 {
+  position: absolute;
+  top: 95px;
+  left: 383px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 183.36px;
+  height: 74.83px;
+}
+.mughal-garden3 {
+  text-decoration: underline;
+}
+.mughal-garden2 {
+  color: inherit;
+}
+.the-shalamar-gardens-container3 {
+  line-break: anywhere;
+  width: 100%;
+}
+.the-shalamar-gardens-container2 {
+  position: absolute;
+  top: 192.05px;
+  left: 383.38px;
+  font-size: var(--text-sm-normal-size);
+  color: inherit;
+  display: flex;
+  align-items: center;
+  width: 192.33px;
+  height: 149.65px;
+}
+.rectangle-parent14 {
+  position: absolute;
+  top: 630px;
+  left: 491px;
+  width: 627px;
+  height: 429px;
+}
+.lahore-railway-station2,
+.lahore-railway-station3 {
+  position: absolute;
+  top: 96px;
+  left: 363px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 256px;
+  height: 48px;
+}
+.lahore-railway-station3 {
+  top: 192.05px;
+  left: 383.38px;
+  font-size: var(--text-sm-normal-size);
+  color: var(--color-burlywood);
+  width: 192.33px;
+  height: 149.65px;
+}
+.group-wrapper7,
+.rectangle-parent15 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 627px;
+  height: 429px;
+}
+.group-wrapper7 {
+  top: 1116px;
+  font-size: var(--font-size-15xl);
+}
+.food-street-in-container2,
+.food-street1 {
+  position: absolute;
+  left: 383px;
+  display: flex;
+  align-items: center;
+}
+.food-street1 {
+  top: 96px;
+  justify-content: center;
+  width: 202px;
+  height: 38px;
+}
+.food-street-in-container2 {
+  top: 163px;
+  font-size: var(--text-sm-normal-size);
+  color: inherit;
+  width: 192.33px;
+  height: 157.13px;
+}
+.rectangle-parent16 {
+  position: absolute;
+  top: 1116px;
+  left: 995px;
+  width: 627px;
+  height: 429px;
+}
+.historical-site-visit-group {
+  position: relative;
+  width: 1622px;
+  height: 1545px;
+  flex-shrink: 0;
+  font-size: var(--font-size-17xl);
+}
+.adrenaline-rush3,
+.joyland-is-a1,
+.joyland1 {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.adrenaline-rush3 {
+  top: 0;
+  left: 405px;
+  font-size: var(--font-size-29xl);
+  line-height: 56px;
+  color: var(--color-gray-100);
+  width: 898px;
+  height: 93px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.joyland-is-a1,
+.joyland1 {
+  top: 109px;
+  left: 347px;
+  width: 256px;
+  height: 48px;
+}
+.joyland-is-a1 {
+  top: 172px;
+  left: 379px;
+  font-size: var(--text-sm-normal-size);
+  color: var(--color-burlywood);
+  width: 192.33px;
+  height: 149.65px;
+}
+.group-wrapper8 {
+  position: absolute;
+  top: 125px;
+  left: 52px;
+  width: 627px;
+  height: 429px;
+}
+.are-you-ready1,
+.go-karting1 {
+  position: absolute;
+  top: 94px;
+  left: 348px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 256px;
+  height: 48px;
+}
+.are-you-ready1 {
+  top: 157px;
+  left: 379px;
+  font-size: var(--text-sm-normal-size);
+  color: var(--color-burlywood);
+  width: 211px;
+  height: 206px;
+}
+.group-wrapper9 {
+  position: absolute;
+  top: 586px;
+  left: 527px;
+  width: 627px;
+  height: 429px;
+}
+.located-in-emporium1 {
+  position: absolute;
+  top: 155px;
+  left: 379px;
+  font-size: var(--text-sm-normal-size);
+  color: var(--color-burlywood);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 192.33px;
+  height: 149.65px;
+}
+.group-wrapper10 {
+  position: absolute;
+  top: 125px;
+  left: 1003px;
+  width: 627px;
+  height: 429px;
+}
+.gymkhana1 {
+  margin: 0;
+}
+.gymkhana-golf-resort-container2,
+.one-of-the1 {
+  position: absolute;
+  top: 107px;
+  left: 355px;
+  display: flex;
+  align-items: center;
+  width: 256px;
+  height: 48px;
+}
+.one-of-the1 {
+  top: 163px;
+  left: 386px;
+  font-size: var(--text-sm-normal-size);
+  color: var(--color-burlywood);
+  justify-content: center;
+  width: 192.33px;
+  height: 149.65px;
+}
+.group-wrapper11 {
+  position: absolute;
+  top: 1082px;
+  left: 0;
+  width: 627px;
+  height: 429px;
+}
+.theres-an-oasis1 {
+  position: absolute;
+  top: 169px;
+  left: 383px;
+  font-size: var(--text-sm-normal-size);
+  color: var(--color-burlywood);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 192.33px;
+  height: 157.13px;
+}
+.rectangle-parent21 {
+  position: absolute;
+  top: 1082px;
+  left: 995px;
+  width: 627px;
+  height: 429px;
+  font-size: var(--font-size-17xl);
+}
+.adrenaline-rush-group {
+  position: relative;
+  width: 1630px;
+  height: 1511px;
+  flex-shrink: 0;
+}
+.this-bazaar-is1 {
+  position: absolute;
+  top: 156px;
+  left: 379px;
+  font-size: var(--text-sm-normal-size);
+  color: var(--color-burlywood);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 192.33px;
+}
+.emporium-mall1,
+.located-near-expo1 {
+  position: absolute;
+  top: 118px;
+  left: 343px;
+  display: flex;
+  align-items: center;
+  width: 256px;
+  height: 48px;
+}
+.located-near-expo1 {
+  top: 131px;
+  left: 366px;
+  font-size: var(--text-sm-normal-size);
+  color: var(--color-burlywood);
+  justify-content: center;
+  width: 211px;
+  height: 206px;
+}
+.image-119-icon24 {
+  position: absolute;
+  top: 18.93px;
+  left: 46.29px;
+  border-radius: var(--br-30xl);
+  width: 293.63px;
+  height: 369.14px;
+  object-fit: cover;
+}
+.group-wrapper13 {
+  position: absolute;
+  top: 597px;
+  left: 532px;
+  width: 627px;
+  height: 429px;
+}
+.akbari-market1,
+.liberty-market1 {
+  position: absolute;
+  top: 131px;
+  left: 347px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 256px;
+  height: 48px;
+}
+.akbari-market1 {
+  top: 91px;
+  left: 351px;
+}
+.anyone-approaching-delhi1,
+.the-shah-almi-gate-container2 {
+  position: absolute;
+  font-size: var(--text-sm-normal-size);
+  display: flex;
+  align-items: center;
+}
+.anyone-approaching-delhi1 {
+  top: 186px;
+  left: 377px;
+  color: var(--color-burlywood);
+  justify-content: center;
+  width: 192.33px;
+  height: 149.65px;
+}
+.the-shah-almi-gate-container2 {
+  top: 161px;
+  left: 378px;
+  color: inherit;
+  width: 229px;
+}
+.frame-div,
+.navbar-icon {
+  position: absolute;
+  left: 0;
+  width: 1600px;
+}
+.frame-div {
+  top: 72px;
+  height: 828px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-192xl);
+}
+.navbar-icon {
+  top: 0;
+  height: 98px;
+  overflow: hidden;
+}
+.actvities {
+  position: relative;
+  background-color: var(--color-burlywood);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 100%;
+  height: 900px;
+  overflow: hidden;
+  opacity: 0;
+  text-align: center;
+  font-size: var(--font-size-15xl);
+  color: var(--white);
+  font-family: var(--font-libre-bodoni);
+}
+.actvities.animate {
+  animation: 0.25s ease 0s 1 normal forwards slide-in-left;
+}

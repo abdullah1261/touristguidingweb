@@ -1,9 +1,8 @@
-import styles from "./FoodMainPage.module.css";
-
+import "./FoodMainPage.css";
 const FoodMainPage = () => {
   return (
-    <div className={styles.foodmainpage}>
-      <img className={styles.foodmainpageChild} alt="" />
+    <div className="foodmainpage">
+      <img className="foodmainpage-child" alt="" />
     </div>
   );
 };

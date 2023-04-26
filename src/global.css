@@ -1,13 +1,13 @@
 @import url("https://fonts.googleapis.com/css2?family=Libre+Bodoni:wght@400&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Lucida+Handwriting:ital,wght@1,400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Sofia+Pro:wght@200;300;400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lora:wght@400&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=CotorisBold:wght@400&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;900&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Cotoris:wght@400&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;700&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Sofia+Pro:wght@200;300;400;500;700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Actor:wght@400&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Lora:wght@400&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=IM+FELL+Great+Primer:wght@400&display=swap");
 @import url("https://fonts.googleapis.com/icon?family=Material+Icons");
 
@@ -17,95 +17,103 @@ body {
 }
 :root {
   /* fonts */
-  --font-lucida-handwriting: "Lucida Handwriting";
   --font-libre-bodoni: "Libre Bodoni";
+  --font-lucida-handwriting: "Lucida Handwriting";
+  --text-md-medium: Inter;
+  --font-sofia-pro: "Sofia Pro";
+  --font-oswald: Oswald;
+  --font-lora: Lora;
   --font-cotorisbold: CotorisBold;
-  --input-labels: Inter;
   --font-poppins: Poppins;
   --font-cotoris: Cotoris;
-  --font-oswald: Oswald;
-  --font-sofia-pro: "Sofia Pro";
   --font-actor: Actor;
-  --font-lora: Lora;
   --font-im-fell-great-primer: "IM FELL Great Primer";
 
   /* font sizes */
+  --text-sm-normal-size: 14px;
+  --font-size-17xl: 36px;
+  --font-size-15xl: 34px;
+  --font-size-29xl: 48px;
+  --font-size-77xl: 96px;
   --font-size-21xl: 40px;
   --font-size-121xl: 140px;
-  --font-size-lg-7: 18.7px;
-  --font-size-mini: 15px;
-  --font-size-lg: 18px;
-  --font-size-lgi-6: 19.6px;
-  --font-size-5xl: 24px;
-  --font-size-2xl: 21px;
-  --font-size-3xs: 10px;
-  --font-size-xs: 12px;
-  --text-sm-normal-size: 14px;
-  --font-size-5xs: 8px;
-  --display-md-semibold-size: 36px;
+  --text-md-medium-size: 16px;
   --text-xl-normal-size: 20px;
-  --input-labels-size: 16px;
+  --font-size-lg: 18px;
+  --font-size-xs: 12px;
+  --font-size-5xl: 24px;
+  --font-size-3xs: 10px;
+  --font-size-5xs: 8px;
+  --font-size-mini: 15px;
+  --font-size-lg-7: 18.7px;
+  --font-size-lgi-6: 19.6px;
+  --font-size-2xl: 21px;
   --font-size-6xl: 25px;
+  --font-size-2xs: 11px;
 
   /* Colors */
+  --color-burlywood: #f3ca9e;
+  --white: #fff;
   --color-gray-100: #321a0c;
-  --gray-900: #101828;
   --color-gray-200: rgba(255, 255, 255, 0.3);
   --color-gray-300: rgba(38, 20, 10, 0.78);
-  --white: #fff;
-  --color-saddlebrown-100: #552c15;
-  --color-saddlebrown-200: rgba(85, 44, 21, 0.85);
-  --color-saddlebrown-300: rgba(85, 44, 21, 0.91);
-  --color-maroon-100: #5b0017;
+  --color-gray-400: rgba(50, 26, 12, 0.86);
+  --color-gray-500: rgba(50, 26, 12, 0.68);
+  --color-black: #000;
+  --color-saddlebrown-100: #6d4229;
+  --color-saddlebrown-200: #552c15;
+  --color-saddlebrown-300: rgba(85, 44, 21, 0.85);
+  --color-saddlebrown-400: rgba(85, 44, 21, 0.91);
+  --gray-500: #667085;
+  --gray-300: #d0d5dd;
+  --color-tomato-100: #f65050;
+  --colour-100: #b8b8b8;
   --color-darkgoldenrod-100: #cc9d2f;
   --color-darkgoldenrod-200: #997c00;
-  --color-darkslateblue-100: #243054;
-  --colour-100: #b8b8b8;
-  --color-peachpuff: rgba(236, 202, 162, 0.98);
-  --gray-700: #344054;
+  --color-mediumpurple: #a56cbd;
+  --color-dodgerblue: #0088ff;
+  --color-skyblue: #49cfe8;
+  --color-royalblue-100: #4281ff;
   --color-darkslategray-100: #393939;
   --color-darkslategray-200: #2d2d2d;
   --color-darkslategray-300: rgba(57, 57, 57, 0.6);
-  --color-mediumseagreen: #2ecc71;
-  --color-tomato-100: #f65050;
-  --color-dodgerblue: #0088ff;
-  --color-skyblue: #49cfe8;
-  --color-mediumpurple: #a56cbd;
+  --color-darkslateblue-100: #243054;
   --color-crimson: #fe4a51;
-  --color-burlywood: #f3ca9e;
-  --color-royalblue-100: #4281ff;
+  --color-mediumseagreen: #2ecc71;
   --color-deepskyblue: #42c0f5;
   --color-hotpink: #f7679d;
-  --primary-600: #7f56d9;
-  --color-mediumslateblue-100: #4c60f5;
+  --color-mediumslateblue: #4c60f5;
   --color-mediumvioletred: #c23785;
+  --color-maroon: #5b0017;
+  --color-peachpuff: rgba(236, 202, 162, 0.98);
   --color-snow-100: #fcfafa;
   --color-whitesmoke-100: #faf9f9;
   --color-whitesmoke-200: #f9f6f6;
   --color-lavenderblush: #f6ecec;
+  --color-sienna: #9e6240;
   --color-linen: #f6f0e9;
-  --gray-500: #667085;
-  --gray-300: #d0d5dd;
 
   /* Gaps */
+  --gap-192xl: 211px;
   --gap-5xs: 8px;
-  --gap-13xl: 32px;
   --gap-7xs: 6px;
 
   /* Paddings */
+  --padding-3xs: 10px;
+  --padding-xs: 12px;
+  --padding-base: 16px;
   --padding-45xl: 64px;
   --padding-77xl: 96px;
-  --padding-3xs: 10px;
-  --padding-base: 16px;
-  --padding-xs: 12px;
 
   /* border radiuses */
+  --br-30xl: 49px;
+  --br-58xl: 77px;
+  --br-40xl: 59px;
   --br-9xl: 28px;
   --br-10xl: 29px;
   --br-5xs: 8px;
   --br-3xs: 10px;
   --br-8xs: 5px;
-  --br-87xl: 106px;
   --br-141xl: 160px;
 
   /* Effects */

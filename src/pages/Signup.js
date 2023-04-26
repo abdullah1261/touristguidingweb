@@ -1,7 +1,6 @@
 import { useCallback } from "react";
 import { useNavigate } from "react-router-dom";
-import styles from "./Signup.module.css";
-
+import "./Signup.css";
 const Signup = () => {
   const navigate = useNavigate();
 
@@ -10,54 +9,47 @@ const Signup = () => {
   }, [navigate]);
 
   return (
-    <div className={styles.signup}>
-      <img className={styles.navbarIcon} alt="" src="/navbar1.svg" />
-      <div className={styles.signupChild} />
-      <div className={styles.facebookParent}>
-        <b className={styles.facebook}>Facebook</b>
+    <div className="signup">
+      <img className="navbar-icon5" alt="" src="/navbar5.svg" />
+      <div className="signup-child" />
+      <div className="facebook-parent">
+        <b className="facebook1">Facebook</b>
         <img
-          className={styles.ictwotoneFacebookIcon}
+          className="ictwotone-facebook-icon"
           alt=""
           src="/ictwotonefacebook.svg"
         />
       </div>
-      <b className={styles.alreadyHaveAn}>Already have an account? Login</b>
-      <b className={styles.firstName}>First Name</b>
-      <div className={styles.cpassInputField} />
-      <div className={styles.passInputField} />
-      <b className={styles.email}>Email</b>
-      <b className={styles.password}>{`Password `}</b>
-      <div className={styles.mailInputField} />
-      <b className={styles.confirmPassword}>Confirm Password</b>
-      <div className={styles.lnameInputField} />
-      <b className={styles.lastName}>Last Name</b>
-      <b className={styles.firstName}>First Name</b>
-      <b className={styles.createAccount}>Create Account</b>
-      <div className={styles.signupItem} />
+      <b className="already-have-an">Already have an account? Login</b>
+      <b className="first-name">First Name</b>
+      <div className="cpass-input-field" />
+      <div className="pass-input-field" />
+      <b className="email">Email</b>
+      <b className="password">{`Password `}</b>
+      <div className="mail-input-field" />
+      <b className="confirm-password">Confirm Password</b>
+      <div className="lname-input-field" />
+      <b className="last-name">Last Name</b>
+      <b className="first-name">First Name</b>
+      <b className="create-account">Create Account</b>
+      <div className="signup-item" />
       <img
-        className={styles.f08dfb3731B1Icon}
+        className="f08dfb3731-b-1-icon"
         alt=""
         src="/6318009995-f08dfb3731-b-1@2x.png"
       />
-      <img className={styles.signupInner} alt="" />
-      <div className={styles.fnameInputField} />
-      <div
-        className={styles.createAccountWrapper}
-        onClick={onFrameContainer1Click}
-      >
-        <b className={styles.createAccount1}>
-          <span className={styles.createAccountTxtContainer}>
-            <p className={styles.createAccount2}>Create Account</p>
+      <img className="signup-inner" alt="" />
+      <div className="fname-input-field" />
+      <div className="create-account-wrapper" onClick={onFrameContainer1Click}>
+        <b className="create-account1">
+          <span className="create-account-txt-container">
+            <p className="create-account2">Create Account</p>
           </span>
         </b>
       </div>
-      <div className={styles.googleParent}>
-        <b className={styles.google}>GOOGLE</b>
-        <img
-          className={styles.ionlogoGoogleIcon}
-          alt=""
-          src="/ionlogogoogle.svg"
-        />
+      <div className="google-parent">
+        <b className="google">GOOGLE</b>
+        <img className="ionlogo-google-icon" alt="" src="/ionlogogoogle.svg" />
       </div>
     </div>
   );
