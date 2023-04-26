@@ -16,8 +16,8 @@ const New = () => {
               <div className="indonesia-says-located">
                 Indonesia says located black box recorders from crashed plane
               </div>
-              <div className="rectangle-parent26">
-                <div className="group-child31" />
+              <div className="rectangle-parent41">
+                <div className="group-child46" />
                 <div className="breaking-news1">Breaking News</div>
               </div>
             </div>

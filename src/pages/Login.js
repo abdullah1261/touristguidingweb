@@ -14,35 +14,35 @@ const Login = () => {
       <img className="navbar-icon6" alt="" src="/navbar6.svg" />
       <div className="menu7">
         <div className="frame-parent">
-          <div className="frame-div">
+          <div className="rectangle-parent44">
             <div className="frame-child" />
-            <div className="activities1">Activities</div>
+            <div className="activities2">Activities</div>
           </div>
-          <div className="frame-div">
+          <div className="rectangle-parent44">
             <div className="frame-child" />
             <div className="news1">News</div>
           </div>
-          <div className="frame-div">
+          <div className="rectangle-parent44">
             <div className="frame-child" />
             <div className="eat2">Eat</div>
           </div>
-          <div className="frame-div">
+          <div className="rectangle-parent44">
             <div className="frame-child" />
             <div className="kahani">Kahani</div>
           </div>
-          <div className="frame-div">
+          <div className="rectangle-parent44">
             <div className="frame-child" />
             <div className="news1">Maps</div>
           </div>
-          <div className="frame-div">
+          <div className="rectangle-parent44">
             <div className="frame-child" />
             <div className="gallery1">Gallery</div>
           </div>
-          <div className="frame-div">
+          <div className="rectangle-parent44">
             <div className="frame-child" />
             <div className="recs">Recs</div>
           </div>
-          <div className="frame-div">
+          <div className="rectangle-parent44">
             <div className="frame-child" />
             <div className="contact-us5">Contact Us</div>
           </div>
@@ -89,35 +89,35 @@ const Login = () => {
       </div>
       <div className="menu8">
         <div className="frame-parent">
-          <div className="frame-div">
+          <div className="rectangle-parent44">
             <div className="frame-child" />
-            <div className="activities1">Activities</div>
+            <div className="activities2">Activities</div>
           </div>
-          <div className="frame-div">
+          <div className="rectangle-parent44">
             <div className="frame-child" />
             <div className="news1">News</div>
           </div>
-          <div className="frame-div">
+          <div className="rectangle-parent44">
             <div className="frame-child" />
             <div className="eat2">Eat</div>
           </div>
-          <div className="frame-div">
+          <div className="rectangle-parent44">
             <div className="frame-child" />
             <div className="kahani">Kahani</div>
           </div>
-          <div className="frame-div">
+          <div className="rectangle-parent44">
             <div className="frame-child" />
             <div className="news1">Maps</div>
           </div>
-          <div className="frame-div">
+          <div className="rectangle-parent44">
             <div className="frame-child" />
             <div className="gallery1">Gallery</div>
           </div>
-          <div className="frame-div">
+          <div className="rectangle-parent44">
             <div className="frame-child" />
             <div className="recs">Recs</div>
           </div>
-          <div className="frame-div">
+          <div className="rectangle-parent44">
             <div className="frame-child" />
             <div className="contact-us5">Contact Us</div>
           </div>

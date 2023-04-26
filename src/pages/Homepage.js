@@ -60,7 +60,7 @@ const Homepage = () => {
   return (
     <div className="homepage">
       <div className="group-parent1">
-        <div className="rectangle-parent44">
+        <div className="rectangle-parent60">
           <video
             className="wrapper"
             autoPlay
@@ -72,13 +72,13 @@ const Homepage = () => {
             <source src="/intro.mp4" />
           </video>
           <div className="intro-1" />
-          <div className="lahore4">Lahore</div>
+          <div className="lahore6">Lahore</div>
           <div className="heart-of-pakistan">Heart of Pakistan</div>
         </div>
         <div className="image-90-parent">
           <div className="image-90" />
-          <div className="group-child34" />
-          <div className="group-child35" />
+          <div className="group-child49" />
+          <div className="group-child50" />
           <img className="image-100-icon" alt="" src="/image-100@2x.png" />
           <div className="gallery3" onClick={onGalleryTextClick}>
             Gallery
@@ -86,7 +86,7 @@ const Homepage = () => {
           <div className="khabay">Khabay</div>
           <div className="news3">News</div>
           <div className="kahani2">Kahani</div>
-          <div className="activities3">Activities</div>
+          <div className="activities4">Activities</div>
           <div className="maps3" onClick={onMapsTextClick}>
             Maps
           </div>
@@ -117,45 +117,45 @@ const Homepage = () => {
           <img className="image-106-icon" alt="" src="/image-106@2x.png" />
           <img className="image-107-icon" alt="" src="/image-107@2x.png" />
           <img className="image-108-icon" alt="" src="/image-108@2x.png" />
-          <div className="group-child36" />
+          <div className="group-child51" />
         </div>
-        <div className="group-wrapper7">
+        <div className="group-wrapper16">
           <div className="group-parent2">
-            <div className="rectangle-parent45">
-              <div className="group-child37" />
+            <div className="rectangle-parent61">
+              <div className="group-child52" />
               <img
-                className="image-118-icon1"
+                className="image-118-icon2"
                 alt=""
                 src="/image-1181@2x.png"
               />
-              <div className="wazir-khan-mosque1">Wazir Khan Mosque</div>
-              <div className="the-wazir-khan1">
+              <div className="wazir-khan-mosque2">Wazir Khan Mosque</div>
+              <div className="the-wazir-khan2">
                 The Wazir Khan Mosque is a 17th-century mosque located in old
                 Lahore. The mosque was commissioned during the reign of the
                 Mughal Emperor Shah Jahan as a part of an ensemble of buildings
                 that also included the nearby Shahi Hammam baths
               </div>
             </div>
-            <div className="rectangle-parent46">
-              <div className="group-child38" />
-              <div className="wazir-khan-mosque1">Gali Surjan Singh</div>
-              <div className="gali-surjan-singh3">
+            <div className="rectangle-parent62">
+              <div className="group-child53" />
+              <div className="wazir-khan-mosque2">Gali Surjan Singh</div>
+              <div className="gali-surjan-singh5">
                 Gali Surjan Singh was named after Hakim Surjan Singh, the 19th
                 century physician who lived in the street. He had cured many
                 royals and that is why the street was named after him and
                 because of his popularity, the street was named after him.
               </div>
               <img
-                className="image-119-icon14"
+                className="image-119-icon28"
                 alt=""
-                src="/image-11914@2x.png"
+                src="/image-119141@2x.png"
               />
             </div>
-            <div className="rectangle-parent47">
-              <div className="group-child38" />
-              <div className="wazir-khan-mosque1">Shalamar Gardens</div>
-              <div className="the-shalamar-gardens-container2">
-                <span className="the-shalamar-gardens-container3">
+            <div className="rectangle-parent63">
+              <div className="group-child53" />
+              <div className="wazir-khan-mosque2">Shalamar Gardens</div>
+              <div className="the-shalamar-gardens-container4">
+                <span className="the-shalamar-gardens-container5">
                   {`The Shalamar Gardens are a `}
                   <a
                     className="united-nations"
@@ -178,16 +178,16 @@ const Homepage = () => {
                 </span>
               </div>
               <img
-                className="image-119-icon14"
+                className="image-119-icon28"
                 alt=""
                 src="/image-11915@2x.png"
               />
-              <div className="rectangle-parent48">
-                <div className="group-child38" />
-                <div className="lahore-railway-station2">
+              <div className="rectangle-parent64">
+                <div className="group-child53" />
+                <div className="lahore-railway-station4">
                   Lahore Railway Station
                 </div>
-                <div className="the-wazir-khan1">
+                <div className="the-wazir-khan2">
                   Lahore Railway Station, which is also known as the Lahore
                   railway junction, is one of the oldest and busiest railway
                   junctions in Pakistan. Dozens of passenger trains and cargo
@@ -195,15 +195,15 @@ const Homepage = () => {
                   scale movements of the railway traffic.
                 </div>
                 <img
-                  className="image-119-icon14"
+                  className="image-119-icon28"
                   alt=""
                   src="/image-11916@2x.png"
                 />
-                <div className="rectangle-parent49">
-                  <div className="group-child38" />
-                  <div className="food-street1">Food Street</div>
-                  <div className="food-street-in-container2">
-                    <span className="the-shalamar-gardens-container3">
+                <div className="rectangle-parent65">
+                  <div className="group-child53" />
+                  <div className="food-street2">Food Street</div>
+                  <div className="food-street-in-container4">
+                    <span className="the-shalamar-gardens-container5">
                       {`Food street in Lahore is one of the must-see places. Located in the heart of the city between Fort road and Roshnai gate, it is filled with all sorts of cuisines to satisfy all food cravings.With music playing in the street and a glorious view of the `}
                       <a
                         className="united-nations"
@@ -218,7 +218,7 @@ const Homepage = () => {
                     </span>
                   </div>
                   <img
-                    className="image-119-icon14"
+                    className="image-119-icon28"
                     alt=""
                     src="/image-11917@2x.png"
                   />
@@ -229,9 +229,9 @@ const Homepage = () => {
         </div>
         <div className="group-parent3">
           <div className="lahore-container">
-            <div className="lahore7">Lahore</div>
+            <div className="lahore9">Lahore</div>
             <div className="area-1772-km2-container">
-              <span className="the-shalamar-gardens-container3">
+              <span className="the-shalamar-gardens-container5">
                 <p className="area-1772-km2-684-sq-mi">
                   <span className="area">{`Area: `}</span>
                   <span className="km2-684-sq">{`1,772 km2 (684 sq mi) `}</span>
@@ -264,7 +264,7 @@ const Homepage = () => {
               </span>
             </div>
             <div className="lahore-is-the-container">
-              <span className="the-shalamar-gardens-container3">
+              <span className="the-shalamar-gardens-container5">
                 {`Lahore  is the `}
                 <a
                   className="united-nations"

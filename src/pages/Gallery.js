@@ -8,17 +8,17 @@ const Gallery = () => {
             <div className="component-1variant3-inner" />
             <img className="ellipse-icon" alt="" src="/ellipse-16.svg" />
             <div className="lahore-group">
-              <div className="lahore3">Lahore</div>
+              <div className="lahore5">Lahore</div>
               <i className="through-lens1">through lens</i>
             </div>
             <img className="icon1" alt="" src="/3@2x.png" />
-            <div className="rectangle-parent19">
-              <div className="group-child22" />
-              <div className="group-child23" />
+            <div className="rectangle-parent34">
+              <div className="group-child37" />
+              <div className="group-child38" />
             </div>
-            <div className="rectangle-parent20">
-              <div className="group-child24" />
-              <div className="group-child25" />
+            <div className="rectangle-parent35">
+              <div className="group-child39" />
+              <div className="group-child40" />
             </div>
             <div className="image-40-group">
               <img className="image-40-icon2" alt="" src="/image-40@2x.png" />
@@ -30,8 +30,8 @@ const Gallery = () => {
               <img className="image-43-icon2" alt="" src="/image-43@2x.png" />
             </div>
           </div>
-          <div className="rectangle-parent21">
-            <div className="group-child26" />
+          <div className="rectangle-parent36">
+            <div className="group-child41" />
             <img className="image-48-icon1" alt="" src="/image-48@2x.png" />
             <img className="image-46-icon1" alt="" src="/image-46@2x.png" />
             <img className="image-44-icon1" alt="" src="/image-44@2x.png" />
@@ -42,8 +42,8 @@ const Gallery = () => {
             <img className="image-45-icon1" alt="" src="/image-45@2x.png" />
             <img className="image-47-icon1" alt="" src="/image-47@2x.png" />
           </div>
-          <div className="rectangle-parent22">
-            <div className="group-child27" />
+          <div className="rectangle-parent37">
+            <div className="group-child42" />
             <img className="image-56-icon1" alt="" src="/image-56@2x.png" />
             <img className="image-54-icon1" alt="" src="/image-54@2x.png" />
             <img className="image-55-icon1" alt="" src="/image-55@2x.png" />
@@ -54,8 +54,8 @@ const Gallery = () => {
             <img className="image-58-icon1" alt="" src="/image-58@2x.png" />
             <img className="image-59-icon1" alt="" src="/image-59@2x.png" />
           </div>
-          <div className="rectangle-parent23">
-            <div className="group-child28" />
+          <div className="rectangle-parent38">
+            <div className="group-child43" />
             <img className="image-63-icon1" alt="" src="/image-63@2x.png" />
             <img className="image-64-icon1" alt="" src="/image-64@2x.png" />
             <img className="image-65-icon1" alt="" src="/image-65@2x.png" />
@@ -65,8 +65,8 @@ const Gallery = () => {
             <img className="image-69-icon1" alt="" src="/image-69@2x.png" />
             <img className="image-70-icon1" alt="" src="/image-70@2x.png" />
           </div>
-          <div className="rectangle-parent24">
-            <div className="group-child29" />
+          <div className="rectangle-parent39">
+            <div className="group-child44" />
             <img className="image-71-icon1" alt="" src="/image-71@2x.png" />
             <img className="image-72-icon1" alt="" src="/image-72@2x.png" />
             <img className="image-73-icon1" alt="" src="/image-73@2x.png" />
@@ -76,8 +76,8 @@ const Gallery = () => {
             <img className="image-79-icon1" alt="" src="/image-79@2x.png" />
             <img className="image-80-icon1" alt="" src="/image-80@2x.png" />
           </div>
-          <div className="rectangle-parent25">
-            <div className="group-child30" />
+          <div className="rectangle-parent40">
+            <div className="group-child45" />
             <img className="image-84-icon1" alt="" src="/image-84@2x.png" />
             <img className="image-85-icon1" alt="" src="/image-85@2x.png" />
             <img className="image-81-icon1" alt="" src="/image-81@2x.png" />

@@ -71,8 +71,8 @@ const Menu = () => {
           <div className="line" />
           <div className="our-menu1">OUR MENU</div>
         </div>
-        <div className="rectangle-parent27">
-          <div className="group-child32" />
+        <div className="rectangle-parent42">
+          <div className="group-child47" />
           <div className="show-more">Show more</div>
         </div>
       </div>
@@ -85,8 +85,8 @@ const Menu = () => {
           <div className="about">Events</div>
         </div>
         <div className="button">
-          <div className="rectangle-parent28">
-            <div className="group-child33" />
+          <div className="rectangle-parent43">
+            <div className="group-child48" />
             <div className="book-now">Book Now</div>
           </div>
           <img className="group-icon" alt="" src="/group.svg" />

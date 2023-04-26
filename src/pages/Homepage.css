@@ -6,6 +6,10 @@
     box-shadow: 0 12px 20px -12px rgb(0 0 0/35%);
   }
 }
+
+body{
+  overflow-x: hidden;
+}
 .wrapper {
   position: absolute;
   top: 0;
@@ -27,7 +31,7 @@
   height: 642.38px;
 }
 .heart-of-pakistan,
-.lahore4 {
+.lahore6 {
   position: absolute;
   height: 9.21%;
   width: 28.5%;
@@ -44,11 +48,12 @@
   left: 15.56%;
   font-size: var(--font-size-21xl);
 }
-.rectangle-parent44 {
+.rectangle-parent60 {
   position: relative;
-  width: 1600px;
+  width: 1440px;
   height: 827px;
   flex-shrink: 0;
+  margin-right: 80px;
 }
 .image-90 {
   position: absolute;
@@ -60,8 +65,8 @@
   left: 35.83%;
   border-radius: 114px;
 }
-.group-child34,
-.group-child35 {
+.group-child49,
+.group-child50 {
   position: absolute;
   height: 18.16%;
   width: 98.48%;
@@ -71,7 +76,7 @@
   left: 0.02%;
   background-color: var(--color-saddlebrown-300);
 }
-.group-child35 {
+.group-child50 {
   top: 81.84%;
   right: 1.52%;
   bottom: 0;
@@ -129,7 +134,7 @@
   top: 43.65%;
   left: 51.75%;
 }
-.activities3,
+.activities4,
 .contact-us7,
 .kahani2,
 .maps3,
@@ -140,7 +145,7 @@
   justify-content: center;
   text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
 }
-.activities3 {
+.activities4 {
   height: 8.52%;
   width: 24.74%;
   top: 43.18%;
@@ -263,7 +268,7 @@
   bottom: 11.47%;
   left: 24.87%;
 }
-.group-child36 {
+.group-child51 {
   position: absolute;
   height: 7.7%;
   width: 4.76%;
@@ -274,7 +279,7 @@
   background-color: var(--color-burlywood);
   box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.01);
 }
-.group-child37,
+.group-child52,
 .image-90-parent {
   box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.01);
 }
@@ -287,7 +292,7 @@
   font-size: var(--font-size-17xl);
   color: var(--color-burlywood);
 }
-.group-child37 {
+.group-child52 {
   position: absolute;
   top: 0;
   left: 0;
@@ -296,7 +301,7 @@
   width: 489px;
   height: 325.89px;
 }
-.image-118-icon1 {
+.image-118-icon2 {
   position: absolute;
   top: 18.74px;
   left: 34px;
@@ -305,8 +310,8 @@
   height: 288.42px;
   object-fit: cover;
 }
-.the-wazir-khan1,
-.wazir-khan-mosque1 {
+.the-wazir-khan2,
+.wazir-khan-mosque2 {
   position: absolute;
   top: 83.37px;
   left: 299px;
@@ -317,15 +322,15 @@
   height: 56.84px;
   text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
 }
-.the-wazir-khan1 {
+.the-wazir-khan2 {
   top: 145.89px;
   font-size: var(--font-size-2xs);
   color: var(--color-burlywood);
   width: 150px;
   height: 113.68px;
 }
-.group-child38,
-.rectangle-parent45 {
+.group-child53,
+.rectangle-parent61 {
   position: absolute;
   top: 7.58px;
   left: 0;
@@ -333,12 +338,12 @@
   width: 489px;
   height: 325.89px;
 }
-.group-child38 {
+.group-child53 {
   top: 0;
   border-radius: var(--br-58xl);
   background-color: var(--color-gray-500);
 }
-.gali-surjan-singh3 {
+.gali-surjan-singh5 {
   position: absolute;
   top: 145.9px;
   left: 299px;
@@ -351,7 +356,7 @@
   height: 113.68px;
   text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
 }
-.image-119-icon14 {
+.image-119-icon28 {
   position: absolute;
   top: 18.74px;
   left: 36px;
@@ -360,7 +365,7 @@
   height: 288.42px;
   object-fit: cover;
 }
-.rectangle-parent46 {
+.rectangle-parent62 {
   position: absolute;
   top: 0;
   left: 541px;
@@ -368,11 +373,11 @@
   width: 489px;
   height: 325.89px;
 }
-.the-shalamar-gardens-container3 {
+.the-shalamar-gardens-container5 {
   line-break: anywhere;
   width: 100%;
 }
-.the-shalamar-gardens-container2 {
+.the-shalamar-gardens-container4 {
   top: 145.9px;
   left: 299px;
   font-size: var(--font-size-2xs);
@@ -380,41 +385,41 @@
   width: 150px;
   height: 113.68px;
 }
-.food-street-in-container2,
-.food-street1,
-.lahore-railway-station2,
-.the-shalamar-gardens-container2 {
+.food-street-in-container4,
+.food-street2,
+.lahore-railway-station4,
+.the-shalamar-gardens-container4 {
   position: absolute;
   display: flex;
   align-items: center;
   text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
 }
-.lahore-railway-station2 {
+.lahore-railway-station4 {
   top: 72.95px;
   left: 289px;
   justify-content: center;
   width: 170px;
   height: 56.84px;
 }
-.food-street-in-container2,
-.food-street1 {
+.food-street-in-container4,
+.food-street2 {
   left: 299px;
 }
-.food-street1 {
+.food-street2 {
   top: 97.58px;
   justify-content: center;
   width: 143px;
   height: 28.42px;
 }
-.food-street-in-container2 {
+.food-street-in-container4 {
   top: 129.79px;
   font-size: var(--font-size-2xs);
   color: inherit;
   width: 150px;
   height: 145.89px;
 }
-.rectangle-parent48,
-.rectangle-parent49 {
+.rectangle-parent64,
+.rectangle-parent65 {
   position: absolute;
   top: 2.84px;
   left: 519px;
@@ -422,12 +427,12 @@
   width: 489px;
   height: 325.89px;
 }
-.rectangle-parent48 {
+.rectangle-parent64 {
   width: 1008px;
   height: 328.74px;
 }
 .group-parent2,
-.rectangle-parent47 {
+.rectangle-parent63 {
   position: absolute;
   top: 10.42px;
   left: 1082px;
@@ -440,7 +445,7 @@
   width: 2609px;
   height: 342px;
 }
-.group-wrapper7 {
+.group-wrapper16 {
   position: relative;
   width: 1601px;
   height: 317px;
@@ -450,7 +455,7 @@
   font-size: var(--font-size-5xl);
   color: var(--white);
 }
-.lahore7 {
+.lahore9 {
   position: absolute;
   top: 0;
   left: 4px;

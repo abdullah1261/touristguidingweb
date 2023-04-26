@@ -56,146 +56,162 @@ const Actvities = () => {
 
   return (
     <div className="actvities" data-animate-on-scroll>
-      <div className="group-parent">
-        <div className="image-126-parent">
-          <img className="image-126-icon" alt="" src="/image-126@2x.png" />
-          <img className="image-125-icon" alt="" src="/image-125@2x.png" />
-          <img className="image-124-icon" alt="" src="/image-124@2x.png" />
+      <div className="frame-div">
+        <div className="image-126-group">
+          <img className="image-126-icon1" alt="" src="/image-126@2x.png" />
+          <img className="image-125-icon1" alt="" src="/image-125@2x.png" />
+          <img className="image-124-icon1" alt="" src="/image-124@2x.png" />
           <img
-            className="image-122-icon"
+            className="image-122-icon1"
             alt=""
             src="/image-122@2x.png"
             onClick={onImage122Click}
           />
           <img
-            className="image-121-icon"
+            className="image-121-icon1"
             alt=""
             src="/image-121@2x.png"
             onClick={onImage121Click}
           />
           <img
-            className="image-123-icon"
+            className="image-123-icon1"
             alt=""
             src="/image-123@2x.png"
             onClick={onImage123Click}
           />
-          <div className="historical-site-visit">Historical Site Visit</div>
-          <div className="adrenaline-rush">Adrenaline Rush</div>
-          <div className="activities">Activities</div>
-          <div className="shopping">Shopping</div>
+          <div className="historical-site-visit2">Historical Site Visit</div>
+          <div className="adrenaline-rush2">Adrenaline Rush</div>
+          <div className="activities1">Activities</div>
+          <div className="shopping2">Shopping</div>
         </div>
         <div
-          className="historical-site-visit-parent"
+          className="historical-site-visit-group"
           data-scroll-to="groupContainer1"
         >
-          <div className="historical-site-visit1">Historical Site Visit</div>
-          <div className="rectangle-parent">
-            <div className="group-child" />
-            <img className="image-118-icon" alt="" src="/image-118@2x.png" />
-            <div className="wazir-khan-mosque">Wazir Khan Mosque</div>
-            <div className="the-wazir-khan">
+          <div className="historical-site-visit3">Historical Site Visit</div>
+          <div className="rectangle-parent12">
+            <div className="group-child12" />
+            <img className="image-118-icon1" alt="" src="/image-118@2x.png" />
+            <div className="wazir-khan-mosque1">Wazir Khan Mosque</div>
+            <div className="the-wazir-khan1">
               The Wazir Khan Mosque is a 17th-century mosque located in old
               Lahore. The mosque was commissioned during the reign of the Mughal
               Emperor Shah Jahan as a part of an ensemble of buildings that also
               included the nearby Shahi Hammam baths
             </div>
           </div>
-          <div className="rectangle-group">
-            <div className="group-item" />
-            <div className="gali-surjan-singh">Gali Surjan Singh</div>
-            <div className="gali-surjan-singh1">
+          <div className="rectangle-parent13">
+            <div className="group-child13" />
+            <div className="gali-surjan-singh2">Gali Surjan Singh</div>
+            <div className="gali-surjan-singh3">
               Gali Surjan Singh was named after Hakim Surjan Singh, the 19th
               century physician who lived in the street. He had cured many
               royals and that is why the street was named after him and because
               of his popularity, the street was named after him.
             </div>
-            <img className="image-119-icon" alt="" src="/image-119@2x.png" />
+            <img
+              className="image-119-icon14"
+              alt=""
+              src="/image-11914@2x.png"
+            />
           </div>
-          <div className="rectangle-container">
-            <div className="group-item" />
-            <div className="shalamar-gardens">Shalamar Gardens</div>
-            <div className="the-shalamar-gardens-container">
-              <span className="emporium-mall-txt-container">
+          <div className="rectangle-parent14">
+            <div className="group-child13" />
+            <div className="shalamar-gardens1">Shalamar Gardens</div>
+            <div className="the-shalamar-gardens-container2">
+              <span className="the-shalamar-gardens-container3">
                 {`The Shalamar Gardens are a `}
                 <a
-                  className="mughal-garden"
+                  className="mughal-garden2"
                   href="https://en.wikipedia.org/wiki/Mughal_garden"
                   target="_blank"
                 >
-                  <span className="mughal-garden1">Mughal garden</span>
+                  <span className="mughal-garden3">Mughal garden</span>
                 </a>
                 {` complex located in `}
                 <a
-                  className="mughal-garden"
+                  className="mughal-garden2"
                   href="https://en.wikipedia.org/wiki/Lahore"
                   target="_blank"
                 >
-                  <span className="mughal-garden1">Lahore</span>
+                  <span className="mughal-garden3">Lahore</span>
                 </a>
                 , Pakistan. The gardens date from the period when the Mughal
                 Empire was at its artistic and aesthetic zenith, and are now one
                 of Pakistan's most popular tourist destinations
               </span>
             </div>
-            <img className="image-119-icon" alt="" src="/image-1191@2x.png" />
+            <img className="image-119-icon14" alt="" src="/image-1191@2x.png" />
           </div>
-          <div className="group-wrapper">
-            <div className="group-div">
-              <div className="group-item" />
-              <div className="lahore-railway-station">
+          <div className="group-wrapper7">
+            <div className="rectangle-parent15">
+              <div className="group-child13" />
+              <div className="lahore-railway-station2">
                 Lahore Railway Station
               </div>
-              <div className="lahore-railway-station1">
+              <div className="lahore-railway-station3">
                 Lahore Railway Station, which is also known as the Lahore
                 railway junction, is one of the oldest and busiest railway
                 junctions in Pakistan. Dozens of passenger trains and cargo
                 carriages make use of the Lahore junction station for large
                 scale movements of the railway traffic.
               </div>
-              <img className="image-119-icon" alt="" src="/image-1192@2x.png" />
+              <img
+                className="image-119-icon14"
+                alt=""
+                src="/image-1192@2x.png"
+              />
             </div>
           </div>
-          <div className="rectangle-parent1">
-            <div className="group-item" />
-            <div className="food-street">Food Street</div>
-            <div className="food-street-in-container">
-              <span className="emporium-mall-txt-container">
+          <div className="rectangle-parent16">
+            <div className="group-child13" />
+            <div className="food-street1">Food Street</div>
+            <div className="food-street-in-container2">
+              <span className="the-shalamar-gardens-container3">
                 {`Food street in Lahore is one of the must-see places. Located in the heart of the city between Fort road and Roshnai gate, it is filled with all sorts of cuisines to satisfy all food cravings.With music playing in the street and a glorious view of the `}
                 <a
-                  className="mughal-garden"
+                  className="mughal-garden2"
                   href="https://visitlahore.com/attractions/badshahi-mosque/"
                   target="_blank"
                 >
-                  <span className="mughal-garden1">Badshahi Mosque</span>
+                  <span className="mughal-garden3">Badshahi Mosque</span>
                 </a>
                 , it is the perfect way to spend your evening.
               </span>
             </div>
-            <img className="image-119-icon" alt="" src="/image-1193@2x.png" />
+            <img
+              className="image-119-icon14"
+              alt=""
+              src="/image-11931@2x.png"
+            />
           </div>
         </div>
-        <div className="adrenaline-rush-parent">
-          <div className="adrenaline-rush1" data-scroll-to="adrenalineRushText">
+        <div className="adrenaline-rush-group">
+          <div className="adrenaline-rush3" data-scroll-to="adrenalineRushText">
             Adrenaline Rush
           </div>
-          <div className="group-container">
-            <div className="group-div">
-              <div className="group-item" />
-              <div className="joyland">{`Joyland `}</div>
-              <div className="joyland-is-a">
+          <div className="group-wrapper8">
+            <div className="rectangle-parent15">
+              <div className="group-child13" />
+              <div className="joyland1">{`Joyland `}</div>
+              <div className="joyland-is-a1">
                 Joyland is a Pakistani amusement park company based in Lahore,
                 Punjab, Pakistan. The park, adjacent to Fortress Stadium, was
                 established in 1977 and is one of the largest recreation parks
                 in the city. It is spread out over an area of 6 acres.
               </div>
-              <img className="image-119-icon" alt="" src="/image-1194@2x.png" />
+              <img
+                className="image-119-icon14"
+                alt=""
+                src="/image-1194@2x.png"
+              />
             </div>
           </div>
-          <div className="group-frame">
-            <div className="group-div">
-              <div className="group-item" />
-              <div className="go-karting">Go Karting</div>
-              <div className="are-you-ready">
+          <div className="group-wrapper9">
+            <div className="rectangle-parent15">
+              <div className="group-child13" />
+              <div className="go-karting1">Go Karting</div>
+              <div className="are-you-ready1">
                 Are you ready to start your engines and race at Pakistan’s first
                 International Level Go Karting Track? The 2F2F Formula Karting
                 track has got you covered. You can fuel your need for speed by
@@ -203,103 +219,123 @@ const Actvities = () => {
                 are an adult, or a youngster looking for some extreme sport,
                 2F2F Karting has excellent opportunities for you.
               </div>
-              <img className="image-119-icon" alt="" src="/image-1195@2x.png" />
+              <img
+                className="image-119-icon14"
+                alt=""
+                src="/image-11951@2x.png"
+              />
             </div>
           </div>
-          <div className="group-wrapper1">
-            <div className="group-div">
-              <div className="group-item" />
-              <div className="joyland">Laser Tag</div>
-              <div className="located-in-emporium">
+          <div className="group-wrapper10">
+            <div className="rectangle-parent15">
+              <div className="group-child13" />
+              <div className="joyland1">Laser Tag</div>
+              <div className="located-in-emporium1">
                 Located in emporium mall, packages mall and mall of Lahore is
                 one of the most fun games; Laser Tag. Laser tag is a
                 recreational shooting sport where participants use
                 infrared-emitting light guns to tag designated targets.
               </div>
-              <img className="image-119-icon" alt="" src="/image-1196@2x.png" />
+              <img
+                className="image-119-icon14"
+                alt=""
+                src="/image-11961@2x.png"
+              />
             </div>
           </div>
-          <div className="group-wrapper2">
-            <div className="group-div">
-              <div className="group-item" />
-              <div className="gymkhana-golf-resort-container">
-                <span className="emporium-mall-txt-container">
-                  <p className="gymkhana">{`Gymkhana `}</p>
-                  <p className="gymkhana">Golf Resort</p>
+          <div className="group-wrapper11">
+            <div className="rectangle-parent15">
+              <div className="group-child13" />
+              <div className="gymkhana-golf-resort-container2">
+                <span className="the-shalamar-gardens-container3">
+                  <p className="gymkhana1">{`Gymkhana `}</p>
+                  <p className="gymkhana1">Golf Resort</p>
                 </span>
               </div>
-              <div className="one-of-the">
+              <div className="one-of-the1">
                 One of the oldest golf courses of the city. A great get away in
                 the heart of blustering city of Lahore. Good restaurants most
                 sports. Swimming and lot more. Must go for visitors.
               </div>
-              <img className="image-119-icon" alt="" src="/image-1197@2x.png" />
+              <img
+                className="image-119-icon14"
+                alt=""
+                src="/image-11971@2x.png"
+              />
             </div>
           </div>
-          <div className="rectangle-parent6">
-            <div className="group-item" />
-            <div className="food-street">Oasis</div>
-            <div className="theres-an-oasis">{`There’s an OASIS of fun at the edge of Lahore. A true sanctuary of hearty merriment for the whole family, located in the peaceful outskirts of Lahore along the main Multan Road, Opposite Honda Cars, The Oasis Golf & Aqua Resort is an idyllic members-only haven that gives a new meaning to family entertainment.`}</div>
-            <img className="image-119-icon" alt="" src="/image-1198@2x.png" />
+          <div className="rectangle-parent21">
+            <div className="group-child13" />
+            <div className="food-street1">Oasis</div>
+            <div className="theres-an-oasis1">{`There’s an OASIS of fun at the edge of Lahore. A true sanctuary of hearty merriment for the whole family, located in the peaceful outskirts of Lahore along the main Multan Road, Opposite Honda Cars, The Oasis Golf & Aqua Resort is an idyllic members-only haven that gives a new meaning to family entertainment.`}</div>
+            <img
+              className="image-119-icon14"
+              alt=""
+              src="/image-11981@2x.png"
+            />
           </div>
         </div>
-        <div className="adrenaline-rush-parent" data-scroll-to="groupContainer">
-          <div className="adrenaline-rush1">Shopping</div>
-          <div className="group-container">
-            <div className="group-div">
-              <div className="group-item" />
-              <div className="joyland">{`AnarKali `}</div>
-              <div className="this-bazaar-is">
+        <div className="adrenaline-rush-group" data-scroll-to="groupContainer">
+          <div className="adrenaline-rush3">Shopping</div>
+          <div className="group-wrapper8">
+            <div className="rectangle-parent15">
+              <div className="group-child13" />
+              <div className="joyland1">{`AnarKali `}</div>
+              <div className="this-bazaar-is1">
                 This bazaar is well worth a visit. You need to witness the
                 frenzy of activity to believe it. Shopping, eating or just
                 watching the locals go about their business its an eye
                 opener.For foodies, there is a spot selling the most insane
                 chole abature which is definitely the in Lahore.
               </div>
-              <img className="image-119-icon" alt="" src="/image-1199@2x.png" />
+              <img
+                className="image-119-icon14"
+                alt=""
+                src="/image-11991@2x.png"
+              />
             </div>
           </div>
-          <div className="group-wrapper4">
-            <div className="group-div">
-              <div className="group-item" />
-              <div className="emporium-mall">
-                <span className="emporium-mall-txt-container">
-                  <p className="gymkhana">Emporium</p>
-                  <p className="gymkhana"> Mall</p>
+          <div className="group-wrapper13">
+            <div className="rectangle-parent15">
+              <div className="group-child13" />
+              <div className="emporium-mall1">
+                <span className="the-shalamar-gardens-container3">
+                  <p className="gymkhana1">Emporium</p>
+                  <p className="gymkhana1"> Mall</p>
                 </span>
               </div>
-              <div className="located-near-expo">
+              <div className="located-near-expo1">
                 Located near expo center ,this mall offers a unique experience
                 of shopping, dining and fun for the kids. You cal find all sorts
                 of modern and cultural stuff here.
               </div>
               <img
-                className="image-119-icon10"
+                className="image-119-icon24"
                 alt=""
-                src="/image-11910@2x.png"
+                src="/image-119101@2x.png"
               />
             </div>
           </div>
-          <div className="group-wrapper1">
-            <div className="group-div">
-              <div className="group-item" />
-              <div className="liberty-market">Liberty Market</div>
-              <div className="located-in-emporium">
+          <div className="group-wrapper10">
+            <div className="rectangle-parent15">
+              <div className="group-child13" />
+              <div className="liberty-market1">Liberty Market</div>
+              <div className="located-in-emporium1">
                 It’s one of the most famous and historic markets in the city
                 with tones of eateries, shopping outlets, and other attractions.
               </div>
               <img
-                className="image-119-icon"
+                className="image-119-icon14"
                 alt=""
-                src="/image-11911@2x.png"
+                src="/image-119111@2x.png"
               />
             </div>
           </div>
-          <div className="group-wrapper2">
-            <div className="group-div">
-              <div className="group-item" />
-              <div className="akbari-market">Akbari Market</div>
-              <div className="anyone-approaching-delhi">
+          <div className="group-wrapper11">
+            <div className="rectangle-parent15">
+              <div className="group-child13" />
+              <div className="akbari-market1">Akbari Market</div>
+              <div className="anyone-approaching-delhi1">
                 Anyone approaching Delhi Gate will be hit by a strong scent that
                 travels up the nostrils and does not leave till it makes the
                 visitor’s eyes all watery. The scent bringing tears to the eyes
@@ -308,48 +344,48 @@ const Actvities = () => {
                 markets in Asia and offers a panorama of colours.
               </div>
               <img
-                className="image-119-icon"
+                className="image-119-icon14"
                 alt=""
-                src="/image-11912@2x.png"
+                src="/image-119121@2x.png"
               />
             </div>
           </div>
-          <div className="rectangle-parent6">
-            <div className="group-item" />
-            <div className="food-street">ShahAlam Market</div>
-            <div className="the-shah-almi-gate-container">
-              <span className="emporium-mall-txt-container">
+          <div className="rectangle-parent21">
+            <div className="group-child13" />
+            <div className="food-street1">ShahAlam Market</div>
+            <div className="the-shah-almi-gate-container2">
+              <span className="the-shalamar-gardens-container3">
                 {`The "Shah-Almi Gate" is named after `}
                 <a
-                  className="mughal-garden"
+                  className="mughal-garden2"
                   href="https://en.wikipedia.org/wiki/Mughal_emperor"
                   target="_blank"
                 >
-                  <span className="mughal-garden1">Mughal emperor</span>
+                  <span className="mughal-garden3">Mughal emperor</span>
                 </a>
                 {` `}
                 <a
-                  className="mughal-garden"
+                  className="mughal-garden2"
                   href="https://en.wikipedia.org/wiki/Shah_Alam_I"
                   target="_blank"
                 >
-                  <span className="mughal-garden1">Shah Alam I</span>
+                  <span className="mughal-garden3">Shah Alam I</span>
                 </a>
                 {`, son of `}
                 <a
-                  className="mughal-garden"
+                  className="mughal-garden2"
                   href="https://en.wikipedia.org/wiki/Aurangzeb"
                   target="_blank"
                 >
-                  <span className="mughal-garden1">Aurangzeb</span>
+                  <span className="mughal-garden3">Aurangzeb</span>
                 </a>
                 {`. Prior to his death, the gate was called the "Bherwala Gate". During the `}
                 <a
-                  className="mughal-garden"
+                  className="mughal-garden2"
                   href="https://en.wikipedia.org/wiki/Partition_of_India"
                   target="_blank"
                 >
-                  <span className="mughal-garden1">1947 partition riots</span>
+                  <span className="mughal-garden3">1947 partition riots</span>
                 </a>
                 , the gate was burned. Today only the name survives. Shah Alam
                 Market is one of Lahore's biggest commercial markets, "Shah Almi
@@ -357,7 +393,11 @@ const Actvities = () => {
                 the gate.
               </span>
             </div>
-            <img className="image-119-icon" alt="" src="/image-11913@2x.png" />
+            <img
+              className="image-119-icon14"
+              alt=""
+              src="/image-119131@2x.png"
+            />
           </div>
         </div>
       </div>

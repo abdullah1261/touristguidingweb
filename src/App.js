@@ -4,6 +4,7 @@ import {
   useNavigationType,
   useLocation,
 } from "react-router-dom";
+import FrameComponent from "./pages/FrameComponent";
 import Actvities from "./pages/Actvities";
 import GalleryContent from "./pages/GalleryContent";
 import Maps from "./pages/Maps";
@@ -36,6 +37,10 @@ function App() {
 
     switch (pathname) {
       case "/":
+        title = "";
+        metaDescription = "";
+        break;
+      case "/actvities":
         title = "";
         metaDescription = "";
         break;
@@ -105,7 +110,8 @@ function App() {
 
   return (
     <Routes>
-      <Route path="/" element={<Actvities />} />
+      <Route path="/" element={<FrameComponent />} />
+      <Route path="/actvities" element={<Actvities />} />
       <Route path="/gallery-content" element={<GalleryContent />} />
       <Route path="/maps" element={<Maps />} />
       <Route path="/contact-us" element={<ContactUs />} />

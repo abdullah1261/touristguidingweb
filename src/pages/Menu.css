@@ -241,7 +241,7 @@
   line-height: 22.44px;
   color: var(--color-darkgoldenrod-100);
 }
-.group-child32,
+.group-child47,
 .our-menu1,
 .title {
   position: absolute;
@@ -255,7 +255,7 @@
   color: var(--colour-100);
   font-family: var(--text-md-medium);
 }
-.group-child32 {
+.group-child47 {
   left: 0;
   border: 2px solid var(--white);
   box-sizing: border-box;
@@ -269,7 +269,7 @@
   display: inline-block;
   width: 104.52px;
 }
-.rectangle-parent27 {
+.rectangle-parent42 {
   position: absolute;
   top: 1510px;
   left: 509.4px;
@@ -315,7 +315,7 @@
   justify-content: flex-start;
   gap: 79.47px;
 }
-.group-child33 {
+.group-child48 {
   position: absolute;
   height: 100%;
   width: 100%;
@@ -331,7 +331,7 @@
   left: 20.47%;
 }
 .group-icon,
-.rectangle-parent28 {
+.rectangle-parent43 {
   position: absolute;
   height: 81.84%;
   width: 81.28%;
