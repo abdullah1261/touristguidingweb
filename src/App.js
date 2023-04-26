@@ -4,19 +4,19 @@ import {
   useNavigationType,
   useLocation,
 } from "react-router-dom";
-import Homepage from "./pages/Homepage";
-import FrameComponent from "./pages/FrameComponent";
+import Actvities from "./pages/Actvities";
+import GalleryContent from "./pages/GalleryContent";
+import Maps from "./pages/Maps";
+import ContactUs from "./pages/ContactUs";
+import Gallery from "./pages/Gallery";
+import New from "./pages/New";
 import Menu from "./pages/Menu";
-import Thumbnail from "./pages/Thumbnail";
+import FoodMainPage from "./pages/FoodMainPage";
 import Contact2 from "./pages/Contact2";
 import Contact21 from "./pages/Contact21";
-import FoodMainPage from "./pages/FoodMainPage";
-import New from "./pages/New";
 import Signup from "./pages/Signup";
 import Login from "./pages/Login";
-import Gallery from "./pages/Gallery";
-import ContactUs from "./pages/ContactUs";
-import Maps from "./pages/Maps";
+import Homepage from "./pages/Homepage";
 import { useEffect } from "react";
 
 function App() {
@@ -39,7 +39,23 @@ function App() {
         title = "";
         metaDescription = "";
         break;
-      case "/frame-14":
+      case "/gallery-content":
+        title = "";
+        metaDescription = "";
+        break;
+      case "/maps":
+        title = "";
+        metaDescription = "";
+        break;
+      case "/contact-us":
+        title = "";
+        metaDescription = "";
+        break;
+      case "/gallery":
+        title = "";
+        metaDescription = "";
+        break;
+      case "/new":
         title = "";
         metaDescription = "";
         break;
@@ -47,11 +63,7 @@ function App() {
         title = "";
         metaDescription = "";
         break;
-      case "/thumbnail":
-        title = "";
-        metaDescription = "";
-        break;
-      case "/contact21":
+      case "/foodmainpage":
         title = "";
         metaDescription = "";
         break;
@@ -59,11 +71,7 @@ function App() {
         title = "";
         metaDescription = "";
         break;
-      case "/foodmainpage":
-        title = "";
-        metaDescription = "";
-        break;
-      case "/new":
+      case "/contact21":
         title = "";
         metaDescription = "";
         break;
@@ -75,15 +83,7 @@ function App() {
         title = "";
         metaDescription = "";
         break;
-      case "/gallery":
-        title = "";
-        metaDescription = "";
-        break;
-      case "/contact-us":
-        title = "";
-        metaDescription = "";
-        break;
-      case "/maps":
+      case "/homepage":
         title = "";
         metaDescription = "";
         break;
@@ -105,19 +105,19 @@ function App() {
 
   return (
     <Routes>
-      <Route path="/" element={<Homepage />} />
-      <Route path="/frame-14" element={<FrameComponent />} />
-      <Route path="/menu" element={<Menu />} />
-      <Route path="/thumbnail" element={<Thumbnail />} />
-      <Route path="/contact21" element={<Contact2 />} />
-      <Route path="/contact2" element={<Contact21 />} />
-      <Route path="/foodmainpage" element={<FoodMainPage />} />
+      <Route path="/" element={<Actvities />} />
+      <Route path="/gallery-content" element={<GalleryContent />} />
+      <Route path="/maps" element={<Maps />} />
+      <Route path="/contact-us" element={<ContactUs />} />
+      <Route path="/gallery" element={<Gallery />} />
       <Route path="/new" element={<New />} />
+      <Route path="/menu" element={<Menu />} />
+      <Route path="/foodmainpage" element={<FoodMainPage />} />
+      <Route path="/contact2" element={<Contact2 />} />
+      <Route path="/contact21" element={<Contact21 />} />
       <Route path="/signup" element={<Signup />} />
       <Route path="/login" element={<Login />} />
-      <Route path="/gallery" element={<Gallery />} />
-      <Route path="/contact-us" element={<ContactUs />} />
-      <Route path="/maps" element={<Maps />} />
+      <Route path="/homepage" element={<Homepage />} />
     </Routes>
   );
 }
