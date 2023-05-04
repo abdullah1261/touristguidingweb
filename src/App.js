@@ -4,20 +4,31 @@ import {
   useNavigationType,
   useLocation,
 } from "react-router-dom";
-import FrameComponent from "./pages/FrameComponent";
-import Actvities from "./pages/Actvities";
-import GalleryContent from "./pages/GalleryContent";
-import Maps from "./pages/Maps";
-import ContactUs from "./pages/ContactUs";
-import Gallery from "./pages/Gallery";
-import New from "./pages/New";
-import Menu from "./pages/Menu";
-import FoodMainPage from "./pages/FoodMainPage";
-import Contact2 from "./pages/Contact2";
-import Contact21 from "./pages/Contact21";
-import Signup from "./pages/Signup";
-import Login from "./pages/Login";
-import Homepage from "./pages/Homepage";
+import MaterialSymbolsrateReviewO from "./pages/MaterialSymbolsrateReviewO";
+import Cafes from "./pages/Cafes";
+import Restaurant from "./pages/Restaurant";
+import Khaabe from "./pages/Khaabe";
+import Andaaz from "./pages/Andaaz";
+import Yum from "./pages/Yum";
+import Spice from "./pages/Spice";
+import Dynasty from "./pages/Dynasty";
+import Tuscany from "./pages/Tuscany";
+import Costa from "./pages/Costa";
+import Jade from "./pages/Jade";
+import Mocca from "./pages/Mocca";
+import Buttler from "./pages/Buttler";
+import Cinnabon from "./pages/Cinnabon";
+import Gloria from "./pages/Gloria";
+import Arcadian from "./pages/Arcadian";
+import Urban from "./pages/Urban";
+import Karak from "./pages/Karak";
+import Dumpukht from "./pages/Dumpukht";
+import Butt from "./pages/Butt";
+import SaltnPeper from "./pages/SaltnPeper";
+import Qabail from "./pages/Qabail";
+import Junoon from "./pages/Junoon";
+import Haveli from "./pages/Haveli";
+import Monal from "./pages/Monal";
 import { useEffect } from "react";
 
 function App() {
@@ -40,55 +51,99 @@ function App() {
         title = "";
         metaDescription = "";
         break;
-      case "/actvities":
+      case "/cafes":
         title = "";
         metaDescription = "";
         break;
-      case "/gallery-content":
+      case "/restaurant":
         title = "";
         metaDescription = "";
         break;
-      case "/maps":
+      case "/khaabe":
         title = "";
         metaDescription = "";
         break;
-      case "/contact-us":
+      case "/andaaz":
         title = "";
         metaDescription = "";
         break;
-      case "/gallery":
+      case "/yum":
         title = "";
         metaDescription = "";
         break;
-      case "/new":
+      case "/spice":
         title = "";
         metaDescription = "";
         break;
-      case "/menu":
+      case "/dynasty":
         title = "";
         metaDescription = "";
         break;
-      case "/foodmainpage":
+      case "/tuscany":
         title = "";
         metaDescription = "";
         break;
-      case "/contact2":
+      case "/costa":
         title = "";
         metaDescription = "";
         break;
-      case "/contact21":
+      case "/jade":
         title = "";
         metaDescription = "";
         break;
-      case "/signup":
+      case "/mocca":
         title = "";
         metaDescription = "";
         break;
-      case "/login":
+      case "/buttler":
         title = "";
         metaDescription = "";
         break;
-      case "/homepage":
+      case "/cinnabon":
+        title = "";
+        metaDescription = "";
+        break;
+      case "/gloria":
+        title = "";
+        metaDescription = "";
+        break;
+      case "/arcadian":
+        title = "";
+        metaDescription = "";
+        break;
+      case "/urban":
+        title = "";
+        metaDescription = "";
+        break;
+      case "/karak":
+        title = "";
+        metaDescription = "";
+        break;
+      case "/dumpukht":
+        title = "";
+        metaDescription = "";
+        break;
+      case "/butt":
+        title = "";
+        metaDescription = "";
+        break;
+      case "/saltn-peper":
+        title = "";
+        metaDescription = "";
+        break;
+      case "/qabail":
+        title = "";
+        metaDescription = "";
+        break;
+      case "/junoon":
+        title = "";
+        metaDescription = "";
+        break;
+      case "/haveli":
+        title = "";
+        metaDescription = "";
+        break;
+      case "/monal":
         title = "";
         metaDescription = "";
         break;
@@ -110,20 +165,31 @@ function App() {
 
   return (
     <Routes>
-      <Route path="/" element={<FrameComponent />} />
-      <Route path="/actvities" element={<Actvities />} />
-      <Route path="/gallery-content" element={<GalleryContent />} />
-      <Route path="/maps" element={<Maps />} />
-      <Route path="/contact-us" element={<ContactUs />} />
-      <Route path="/gallery" element={<Gallery />} />
-      <Route path="/new" element={<New />} />
-      <Route path="/menu" element={<Menu />} />
-      <Route path="/foodmainpage" element={<FoodMainPage />} />
-      <Route path="/contact2" element={<Contact2 />} />
-      <Route path="/contact21" element={<Contact21 />} />
-      <Route path="/signup" element={<Signup />} />
-      <Route path="/login" element={<Login />} />
-      <Route path="/homepage" element={<Homepage />} />
+      <Route path="/" element={<MaterialSymbolsrateReviewO />} />
+      <Route path="/cafes" element={<Cafes />} />
+      <Route path="/restaurant" element={<Restaurant />} />
+      <Route path="/khaabe" element={<Khaabe />} />
+      <Route path="/andaaz" element={<Andaaz />} />
+      <Route path="/yum" element={<Yum />} />
+      <Route path="/spice" element={<Spice />} />
+      <Route path="/dynasty" element={<Dynasty />} />
+      <Route path="/tuscany" element={<Tuscany />} />
+      <Route path="/costa" element={<Costa />} />
+      <Route path="/jade" element={<Jade />} />
+      <Route path="/mocca" element={<Mocca />} />
+      <Route path="/buttler" element={<Buttler />} />
+      <Route path="/cinnabon" element={<Cinnabon />} />
+      <Route path="/gloria" element={<Gloria />} />
+      <Route path="/arcadian" element={<Arcadian />} />
+      <Route path="/urban" element={<Urban />} />
+      <Route path="/karak" element={<Karak />} />
+      <Route path="/dumpukht" element={<Dumpukht />} />
+      <Route path="/butt" element={<Butt />} />
+      <Route path="/saltn-peper" element={<SaltnPeper />} />
+      <Route path="/qabail" element={<Qabail />} />
+      <Route path="/junoon" element={<Junoon />} />
+      <Route path="/haveli" element={<Haveli />} />
+      <Route path="/monal" element={<Monal />} />
     </Routes>
   );
 }
