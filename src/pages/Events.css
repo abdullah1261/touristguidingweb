@@ -1,0 +1,951 @@
+.icon42 {
+  position: absolute;
+  top: 0;
+  left: 27px;
+  width: 241px;
+  height: 268px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.icon-cart19,
+.vector-icon44 {
+  position: absolute;
+  height: 48.82%;
+  width: 2.08%;
+  top: 27.79%;
+  right: 2.23%;
+  bottom: 23.39%;
+  left: 95.69%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.icon-cart19 {
+  height: 45.31%;
+  width: 2.22%;
+  top: 30.56%;
+  right: 5.97%;
+  bottom: 24.13%;
+  left: 91.81%;
+}
+.activites19,
+.eat19,
+.events20,
+.gallery20,
+.kahani20,
+.map19 {
+  position: absolute;
+  top: 21px;
+  left: 1286px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 109px;
+  height: 30px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  cursor: pointer;
+}
+.activites19,
+.eat19,
+.events20,
+.kahani20,
+.map19 {
+  left: 1177px;
+}
+.eat19,
+.events20,
+.kahani20,
+.map19 {
+  top: 20px;
+  left: 1083px;
+}
+.eat19,
+.events20,
+.kahani20 {
+  left: 1017px;
+}
+.events20,
+.kahani20 {
+  left: 941px;
+}
+.kahani20 {
+  top: 21px;
+  left: 845px;
+}
+.icon-envelope-closed19 {
+  position: absolute;
+  height: 34.72%;
+  width: 2.29%;
+  top: 36.11%;
+  right: 9.58%;
+  bottom: 29.17%;
+  left: 88.12%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.navbar19 {
+  position: absolute;
+  top: 0;
+  left: -2px;
+  background-color: var(--color-sienna-200);
+  box-shadow: 0 4px 22px rgba(0, 0, 0, 0.12);
+  border: 1px solid var(--color-sienna-200);
+  box-sizing: border-box;
+  width: 1602px;
+  height: 72px;
+  overflow: hidden;
+  font-size: var(--font-size-6xl);
+  color: var(--color-burlywood);
+  font-family: var(--font-actor);
+}
+.events-in-lahore,
+.lahore-the-city {
+  position: absolute;
+  -webkit-text-stroke: 1px #000;
+}
+.lahore-the-city {
+  top: 529px;
+  left: calc(50% - 279px);
+  font-size: var(--font-size-17xl);
+  font-weight: 500;
+  color: var(--color-darkred);
+}
+.events-in-lahore {
+  top: calc(50% - 19.5px);
+  left: calc(50% - 251px);
+  line-height: 56px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 502px;
+  height: 38px;
+}
+.events-in-lahore-wrapper {
+  position: absolute;
+  top: 439px;
+  left: 0;
+  background-color: var(--color-sienna-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1600px;
+  height: 57px;
+  overflow: hidden;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-libre-bodoni);
+}
+.explore-all-the {
+  position: absolute;
+  top: 797px;
+  left: calc(50% - 383px);
+  font-size: var(--font-size-21xl);
+  display: inline-block;
+  color: var(--color-darkred);
+  width: 821px;
+  -webkit-text-stroke: 1px #000;
+}
+.blf-ziggo-1180x490-1-icon {
+  position: absolute;
+  top: 72px;
+  left: 0;
+  width: 1602px;
+  height: 367px;
+  object-fit: cover;
+}
+.lahore-is-known {
+  margin: 0;
+}
+.lahore-is-known-container {
+  position: absolute;
+  top: 615px;
+  left: 153px;
+  font-size: var(--font-size-9xl);
+  display: inline-block;
+  color: #b03232;
+  width: 1257px;
+  height: 77px;
+}
+.footer-38-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-sienna-200);
+  box-shadow: var(--shadow-200);
+  width: 1600px;
+  height: 153px;
+}
+.follow-us20,
+.subscribe-to-newsletter20 {
+  position: absolute;
+  top: 34px;
+  left: 859px;
+  display: inline-block;
+  width: 278px;
+  height: 29px;
+}
+.follow-us20 {
+  top: 29px;
+  left: 467px;
+  width: 154px;
+}
+.footer-38-item {
+  position: absolute;
+  top: 27.5px;
+  left: 817.5px;
+  border-right: 3px solid var(--cold-grey-10);
+  box-sizing: border-box;
+  width: 3px;
+  height: 109px;
+}
+.text20 {
+  position: absolute;
+  height: 6.15%;
+  top: 72.69%;
+  left: 46.88%;
+  font-size: var(--text-sm-normal-size);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.contact-us21,
+.maps21,
+.privacy-policy20,
+.shop20 {
+  position: absolute;
+  height: 100%;
+  width: 26.71%;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-shadow: -2px 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px rgba(79, 29, 29, 0.19);
+  cursor: pointer;
+}
+.contact-us21,
+.maps21,
+.shop20 {
+  width: 11.11%;
+  left: 36.41%;
+}
+.contact-us21,
+.shop20 {
+  width: 9.93%;
+  left: 58.16%;
+}
+.contact-us21 {
+  width: 21.28%;
+  left: 78.72%;
+}
+.privacy-policy-parent18 {
+  position: absolute;
+  height: 6.92%;
+  width: 26.44%;
+  top: 72%;
+  right: 35.69%;
+  bottom: 21.08%;
+  left: 37.88%;
+  font-size: var(--text-md-medium-size);
+}
+.all-rights-reserved20 {
+  position: absolute;
+  height: 87.5%;
+  width: 84.21%;
+  top: 6.25%;
+  left: 0;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.copyright20 {
+  position: absolute;
+  top: 221px;
+  left: calc(50% - 79px);
+  width: 234px;
+  height: 16px;
+  font-size: var(--text-md-medium-size);
+}
+.subscribe-child18 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--cold-grey-10);
+  box-shadow: 0 6px 12px -6px rgba(255, 255, 255, 0.12),
+    0 8px 24px -4px rgba(255, 255, 255, 0.08);
+}
+.enter-your-email20 {
+  position: absolute;
+  width: 70.86%;
+  top: 30%;
+  left: 2.29%;
+  display: inline-block;
+}
+.subscribe41 {
+  position: relative;
+}
+.buttonstarted20 {
+  position: absolute;
+  height: 80%;
+  width: 26.22%;
+  top: 10%;
+  right: 0.68%;
+  bottom: 10%;
+  left: 73.1%;
+  background-color: var(--cold-grey-white);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-8xs) var(--padding-7xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: var(--text-sm-normal-size);
+  color: var(--color-saddlebrown);
+}
+.subscribe40 {
+  position: absolute;
+  top: 63px;
+  left: 876px;
+  width: 560px;
+  height: 42px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--cold-grey-30);
+}
+.image-41-icon20,
+.image-42-icon20,
+.image-43-icon20 {
+  position: absolute;
+  height: 100%;
+  width: 44.39%;
+  top: 0;
+  right: 10.63%;
+  bottom: 0;
+  left: 44.97%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.image-42-icon20,
+.image-43-icon20 {
+  height: 43.39%;
+  width: 29.15%;
+  top: 34.06%;
+  right: 38.44%;
+  bottom: 22.55%;
+  left: 32.41%;
+}
+.image-43-icon20 {
+  height: 42.92%;
+  width: 41.96%;
+  top: 34.53%;
+  right: 58.04%;
+  left: 0;
+}
+.image-41-parent18 {
+  position: absolute;
+  height: 82.44%;
+  width: 26.86%;
+  top: -46.92%;
+  right: -2.73%;
+  bottom: 64.49%;
+  left: 75.88%;
+}
+.icon43 {
+  position: absolute;
+  top: -34px;
+  left: 58px;
+  width: 398px;
+  height: 181px;
+  object-fit: cover;
+}
+.footer-38-inner {
+  position: absolute;
+  top: 72px;
+  left: 498px;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-gainsboro-100);
+  width: 30px;
+  height: 30px;
+}
+.footer-38-child1 {
+  position: absolute;
+  top: 72px;
+  left: 550px;
+  width: 31px;
+  height: 31px;
+}
+.footer-38-child2 {
+  position: absolute;
+  top: 69px;
+  left: 606px;
+  width: 37px;
+  height: 36px;
+}
+.image-135-icon20 {
+  position: absolute;
+  top: 63px;
+  left: 540px;
+  width: 51px;
+  height: 48px;
+  object-fit: cover;
+}
+.image-136-icon20,
+.image-137-icon20 {
+  position: absolute;
+  top: 68px;
+  left: 603px;
+  width: 41px;
+  height: 38px;
+  object-fit: cover;
+}
+.image-137-icon20 {
+  top: 67px;
+  left: 664px;
+  border-radius: var(--br-lg);
+  width: 42px;
+}
+.image-134-icon20 {
+  position: absolute;
+  top: 71px;
+  left: 495px;
+  width: 34px;
+  height: 34px;
+  object-fit: cover;
+}
+.footer-38,
+.sports {
+  position: absolute;
+  left: 0;
+}
+.footer-38 {
+  top: 2875px;
+  background-color: var(--color-saddlebrown);
+  width: 1600px;
+  height: 250px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-burlywood);
+}
+.sports {
+  top: 26px;
+  font-weight: 500;
+  display: inline-block;
+  width: 317px;
+  height: 54px;
+}
+.sports-wrapper {
+  position: absolute;
+  top: 939px;
+  left: 0;
+  width: 1598px;
+  height: 319px;
+  overflow: hidden;
+}
+.p {
+  margin: 0;
+  color: var(--color-gainsboro-300);
+}
+.nov-17,
+.th-malik-atta {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.nov-17 {
+  top: 229px;
+  left: 0;
+  font-size: var(--font-size-9xl);
+  width: 146px;
+  height: 22px;
+  color: var(--color-sandybrown);
+}
+.th-malik-atta {
+  top: calc(50% + 65px);
+  left: calc(50% - 74.5px);
+  font-size: var(--font-size-lg);
+  color: var(--cold-grey-white);
+  width: 272px;
+  height: 28px;
+}
+.fri-nov-17-container,
+.sa-gardens {
+  position: absolute;
+  top: 274px;
+  left: calc(50% - 117.5px);
+  font-weight: 300;
+  display: inline-block;
+  width: 284px;
+  height: 46px;
+}
+.sa-gardens {
+  top: 262px;
+  left: calc(50% - 175.5px);
+}
+.malik-atta-pegg-1,
+.nov-17-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 421px;
+}
+.malik-atta-pegg-1 {
+  border-radius: var(--br-5xl);
+  height: 197px;
+  object-fit: cover;
+}
+.nov-17-parent {
+  border-radius: var(--br-6xl);
+  background-color: var(--color-maroon);
+  height: 338px;
+  overflow: hidden;
+}
+.days-trip-to-container,
+.nov-171 {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.nov-171 {
+  top: 229px;
+  left: 0;
+  width: 146px;
+  height: 22px;
+}
+.days-trip-to-container {
+  top: calc(50% + 68px);
+  left: calc(50% - 87.5px);
+  font-size: var(--font-size-mini);
+  color: var(--cold-grey-white);
+  width: 272px;
+  height: 28px;
+}
+.wandering-traveller {
+  position: absolute;
+  top: 273px;
+  left: calc(50% - 147.5px);
+  font-size: var(--text-md-medium-size);
+  font-weight: 300;
+  color: var(--color-silver-100);
+  display: inline-block;
+  width: 284px;
+  height: 46px;
+}
+.nov-17-group {
+  position: absolute;
+  top: 0;
+  left: 1587px;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-maroon);
+  width: 421px;
+  height: 338px;
+  overflow: hidden;
+  font-size: var(--font-size-9xl);
+  color: var(--color-sandybrown);
+}
+.nike-open-tennis {
+  position: absolute;
+  top: calc(50% + 60px);
+  left: calc(50% - 96.5px);
+  font-size: var(--font-size-lg);
+  font-weight: 500;
+  color: var(--cold-grey-white);
+  display: inline-block;
+  width: 272px;
+  height: 28px;
+}
+.bagh-e-jinnah-lahore {
+  position: absolute;
+  top: 273px;
+  left: calc(50% - 141.5px);
+  font-weight: 300;
+  display: inline-block;
+  width: 284px;
+  height: 46px;
+}
+.dec-19-parent,
+.tennis-1-icon {
+  position: absolute;
+  top: 0;
+  width: 421px;
+}
+.tennis-1-icon {
+  left: 0;
+  border-radius: 27px;
+  height: 203px;
+  object-fit: cover;
+}
+.dec-19-parent {
+  left: 1053px;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-maroon);
+  height: 338px;
+  overflow: hidden;
+}
+.fast-nuces-lahore-container,
+.rung {
+  position: absolute;
+  display: inline-block;
+}
+.rung {
+  top: calc(50% + 60px);
+  left: calc(50% - 189.5px);
+  font-size: var(--font-size-lg);
+  font-weight: 500;
+  color: var(--cold-grey-white);
+  width: 272px;
+  height: 28px;
+}
+.fast-nuces-lahore-container {
+  top: 262px;
+  left: calc(50% - 141.5px);
+  font-size: var(--text-md-medium-size);
+  font-weight: 300;
+  color: var(--color-silver-100);
+  width: 284px;
+  height: 46px;
+}
+.rung-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 441px;
+  height: 195px;
+  object-fit: cover;
+}
+.may-10-parent {
+  position: absolute;
+  top: 0;
+  left: 534px;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-maroon);
+  width: 439px;
+  height: 354px;
+  overflow: hidden;
+  font-size: var(--font-size-9xl);
+  color: var(--color-sandybrown);
+}
+.frame-parent66,
+.hunza-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 2008px;
+  height: 354px;
+}
+.hunza-1-icon {
+  left: 1585px;
+  border-radius: 22px;
+  width: 423px;
+  height: 203px;
+  object-fit: cover;
+}
+.group-parent2 {
+  position: absolute;
+  top: 1098px;
+  left: 85px;
+  width: 1474px;
+  height: 354px;
+  overflow: auto;
+  font-size: var(--text-md-medium-size);
+  color: var(--color-silver-100);
+}
+.she2023-summit-container {
+  position: absolute;
+  top: calc(50% + 58px);
+  left: calc(50% - 100.5px);
+  font-size: var(--font-size-lg);
+  font-weight: 500;
+  color: var(--cold-grey-white);
+  display: inline-block;
+  width: 272px;
+  height: 28px;
+}
+.lahorepunjabpakistan,
+.people-are-interested-container {
+  position: absolute;
+  top: 293px;
+  left: calc(50% - 148.5px);
+  font-weight: 300;
+  display: inline-block;
+  width: 284px;
+  height: 46px;
+}
+.lahorepunjabpakistan {
+  top: 262px;
+  left: calc(50% - 145.5px);
+}
+.she-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 421px;
+  height: 207px;
+  object-fit: cover;
+}
+.nov-17-container,
+.nov-30-parent {
+  position: absolute;
+  top: 6px;
+  left: 0;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-gray-100);
+  width: 421px;
+  height: 338px;
+  overflow: hidden;
+}
+.nov-17-container {
+  left: 2169px;
+}
+.future-fest-2024-container {
+  position: absolute;
+  top: calc(50% + 52.5px);
+  left: calc(50% - 96px);
+  font-size: var(--font-size-lg);
+  font-weight: 500;
+  color: var(--cold-grey-white);
+  display: inline-block;
+  width: 272px;
+  height: 28px;
+}
+.alhamra-arts-council-container {
+  position: absolute;
+  top: 281px;
+  left: calc(50% - 126px);
+  font-size: var(--text-md-medium-size);
+  font-weight: 300;
+  color: var(--color-silver-100);
+  display: inline-block;
+  width: 284px;
+  height: 46px;
+}
+.futurefest-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 507px;
+  height: 203px;
+  object-fit: cover;
+}
+.jan-26-parent {
+  position: absolute;
+  top: 0;
+  left: 497px;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-gray-100);
+  width: 410px;
+  height: 349px;
+  overflow: hidden;
+  font-size: var(--font-size-9xl);
+  color: var(--color-sandybrown);
+}
+.makers-market,
+.the-commons-karachi {
+  position: absolute;
+  display: inline-block;
+}
+.makers-market {
+  top: calc(50% + 65px);
+  left: calc(50% - 152.5px);
+  font-size: var(--font-size-lg);
+  font-weight: 500;
+  color: var(--cold-grey-white);
+  width: 272px;
+  height: 28px;
+}
+.the-commons-karachi {
+  top: 273px;
+  left: calc(50% - 137.5px);
+  font-size: var(--text-md-medium-size);
+  font-weight: 300;
+  color: var(--color-silver-100);
+  width: 284px;
+  height: 46px;
+}
+.makersmarket-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 421px;
+  height: 205px;
+  object-fit: cover;
+}
+.mar-20-parent {
+  position: absolute;
+  top: 11px;
+  left: 1608px;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-gray-100);
+  width: 421px;
+  height: 338px;
+  overflow: hidden;
+  font-size: var(--font-size-9xl);
+  color: var(--color-sandybrown);
+}
+.rebooted,
+.tedx-lahore {
+  position: absolute;
+  display: inline-block;
+}
+.rebooted {
+  top: calc(50% + 71px);
+  left: calc(50% - 148.5px);
+  font-size: var(--font-size-lg);
+  font-weight: 500;
+  color: var(--cold-grey-white);
+  width: 272px;
+  height: 28px;
+}
+.tedx-lahore {
+  top: 273px;
+  left: calc(50% - 154.5px);
+  font-size: var(--text-md-medium-size);
+  font-weight: 300;
+  color: var(--color-silver-100);
+  width: 284px;
+  height: 46px;
+}
+.may-04-parent,
+.nov-17-parent1 {
+  position: absolute;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-gray-100);
+  height: 338px;
+  overflow: hidden;
+}
+.may-04-parent {
+  top: 11px;
+  left: 1047px;
+  width: 401px;
+  font-size: var(--font-size-9xl);
+  color: var(--color-sandybrown);
+}
+.nov-17-parent1 {
+  top: 0;
+  left: 2714px;
+  width: 421px;
+}
+.tedx2-1-icon {
+  position: absolute;
+  top: 12px;
+  left: 1047px;
+  width: 401px;
+  height: 217px;
+  object-fit: cover;
+}
+.events-inner,
+.frame-parent67 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 3135px;
+  height: 349px;
+}
+.events-inner {
+  top: 1661px;
+  left: 85px;
+  width: 1499px;
+  overflow-x: auto;
+  font-size: var(--text-md-medium-size);
+  color: var(--color-silver-100);
+}
+.nov-17-parent2,
+.nov-17-parent3,
+.nov-17-parent4,
+.nov-17-parent5,
+.nov-17-parent6,
+.nov-17-parent7,
+.nov-17-parent8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-gray-100);
+  width: 421px;
+  height: 338px;
+  overflow: hidden;
+}
+.nov-17-parent3,
+.nov-17-parent4,
+.nov-17-parent5,
+.nov-17-parent6,
+.nov-17-parent7,
+.nov-17-parent8 {
+  left: 2575px;
+}
+.nov-17-parent4,
+.nov-17-parent5,
+.nov-17-parent6,
+.nov-17-parent7,
+.nov-17-parent8 {
+  left: 524px;
+}
+.nov-17-parent5,
+.nov-17-parent6,
+.nov-17-parent7,
+.nov-17-parent8 {
+  left: 1048px;
+}
+.nov-17-parent6,
+.nov-17-parent7,
+.nov-17-parent8 {
+  left: 2066px;
+}
+.nov-17-parent7,
+.nov-17-parent8 {
+  left: 1557px;
+}
+.nov-17-parent8 {
+  left: 3084px;
+}
+.events-child,
+.frame-parent68 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 3505px;
+  height: 338px;
+}
+.events-child {
+  top: 2236px;
+  left: 85px;
+  width: 1456px;
+  overflow-x: auto;
+  font-size: var(--text-md-medium-size);
+  color: var(--color-silver-100);
+}
+.competitions,
+.talks {
+  position: absolute;
+  top: 1536px;
+  left: -22px;
+  font-weight: 500;
+  display: inline-block;
+  width: 317px;
+  height: 54px;
+}
+.competitions {
+  top: 2096px;
+  left: 73px;
+}
+.events19 {
+  position: relative;
+  background-color: var(--color-burlywood);
+  width: 100%;
+  height: 3125px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-29xl);
+  color: var(--color-brown-100);
+  font-family: var(--font-roboto);
+}
