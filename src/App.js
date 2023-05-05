@@ -308,6 +308,7 @@ function App() {
       <Route path="/contact-us" element={<ContactUs />} />
       <Route path="/gallery" element={<Gallery />} />
     </Routes>
+    //Abdullah
   );
 }
 export default App;
