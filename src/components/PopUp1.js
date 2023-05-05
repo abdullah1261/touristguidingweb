@@ -34,7 +34,7 @@ const PopUp1 = ({ onClose }) => {
   return (
     <div className="popup-1" data-animate-on-scroll>
       <div className="popup-1-inner">
-        <div className="group-child27" />
+        <div className="group-child44" />
       </div>
       <div className="message-submitted">Message Submitted!</div>
       <img className="icon-thumb-up" alt="" src="/-icon-thumb-up.svg" />

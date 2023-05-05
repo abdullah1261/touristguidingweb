@@ -1,0 +1,508 @@
+.kahani-child {
+  position: absolute;
+  top: 389px;
+  left: 172px;
+  border-radius: var(--br-54xl);
+  width: 423px;
+  height: 269px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.the-mosque-that {
+  position: absolute;
+  top: 916px;
+  left: 259px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 298px;
+  height: 73px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #6d4229;
+}
+.kahani-child1,
+.kahani-inner,
+.kahani-item,
+.rectangle-icon {
+  position: absolute;
+  top: 388px;
+  left: 1005px;
+  border-radius: var(--br-54xl);
+  width: 425px;
+  height: 271px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.kahani-child1,
+.kahani-inner,
+.rectangle-icon {
+  top: 820px;
+  left: 190px;
+  width: 419px;
+  height: 265px;
+}
+.kahani-child1,
+.rectangle-icon {
+  left: 1001px;
+  width: 401px;
+  height: 247px;
+}
+.kahani-child1 {
+  top: 586px;
+  left: 590px;
+  width: 421px;
+  height: 267px;
+}
+.footer-37-child32 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-sienna-200);
+  box-shadow: var(--shadow-200);
+  width: 1600px;
+  height: 153px;
+}
+.follow-us13,
+.subscribe-to-newsletter13 {
+  position: absolute;
+  top: 34px;
+  left: 859px;
+  display: inline-block;
+  width: 278px;
+  height: 29px;
+}
+.follow-us13 {
+  top: 29px;
+  left: 467px;
+  width: 154px;
+}
+.footer-37-child33 {
+  position: absolute;
+  top: 27.5px;
+  left: 817.5px;
+  border-right: 3px solid var(--cold-grey-10);
+  box-sizing: border-box;
+  width: 3px;
+  height: 109px;
+}
+.text13 {
+  position: absolute;
+  height: 6.15%;
+  top: 72.69%;
+  left: 46.88%;
+  font-size: var(--text-sm-normal-size);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.contact-us14,
+.maps14,
+.privacy-policy13,
+.shop13 {
+  position: absolute;
+  height: 100%;
+  width: 26.71%;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-shadow: -2px 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px rgba(79, 29, 29, 0.19);
+  cursor: pointer;
+}
+.contact-us14,
+.maps14,
+.shop13 {
+  width: 11.11%;
+  left: 36.41%;
+}
+.contact-us14,
+.shop13 {
+  width: 9.93%;
+  left: 58.16%;
+}
+.contact-us14 {
+  width: 21.28%;
+  left: 78.72%;
+}
+.privacy-policy-parent11 {
+  position: absolute;
+  height: 6.92%;
+  width: 26.44%;
+  top: 72%;
+  right: 35.69%;
+  bottom: 21.08%;
+  left: 37.88%;
+  font-size: var(--text-md-medium-size);
+}
+.all-rights-reserved13 {
+  position: absolute;
+  height: 87.5%;
+  width: 84.21%;
+  top: 6.25%;
+  left: 0;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.copyright13 {
+  position: absolute;
+  top: 221px;
+  left: calc(50% - 79px);
+  width: 234px;
+  height: 16px;
+  font-size: var(--text-md-medium-size);
+}
+.subscribe-child11 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--cold-grey-10);
+  box-shadow: 0 6px 12px -6px rgba(255, 255, 255, 0.12),
+    0 8px 24px -4px rgba(255, 255, 255, 0.08);
+}
+.enter-your-email13 {
+  position: absolute;
+  width: 70.86%;
+  top: 30%;
+  left: 2.29%;
+  display: inline-block;
+}
+.subscribe27 {
+  position: relative;
+}
+.buttonstarted13 {
+  position: absolute;
+  height: 80%;
+  width: 26.22%;
+  top: 10%;
+  right: 0.68%;
+  bottom: 10%;
+  left: 73.1%;
+  background-color: var(--cold-grey-white);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-8xs) var(--padding-7xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: var(--text-sm-normal-size);
+  color: var(--color-saddlebrown);
+}
+.subscribe26 {
+  position: absolute;
+  top: 63px;
+  left: 876px;
+  width: 560px;
+  height: 42px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--cold-grey-30);
+}
+.image-41-icon13,
+.image-42-icon13,
+.image-43-icon13 {
+  position: absolute;
+  height: 100%;
+  width: 44.86%;
+  top: 0;
+  right: 10.17%;
+  bottom: 0;
+  left: 44.97%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.image-42-icon13,
+.image-43-icon13 {
+  height: 43.39%;
+  width: 29.15%;
+  top: 34.06%;
+  right: 38.44%;
+  bottom: 22.55%;
+  left: 32.41%;
+}
+.image-43-icon13 {
+  height: 42.92%;
+  width: 41.96%;
+  top: 34.53%;
+  right: 58.04%;
+  left: 0;
+}
+.image-41-parent11 {
+  position: absolute;
+  height: 82.44%;
+  width: 26.86%;
+  top: -46.92%;
+  right: -2.73%;
+  bottom: 64.49%;
+  left: 75.88%;
+}
+.icon33 {
+  position: absolute;
+  top: -34px;
+  left: 58px;
+  width: 398px;
+  height: 181px;
+  object-fit: cover;
+}
+.footer-37-child34 {
+  position: absolute;
+  top: 72px;
+  left: 498px;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-gainsboro-100);
+  width: 30px;
+  height: 30px;
+}
+.footer-37-child35 {
+  position: absolute;
+  top: 72px;
+  left: 550px;
+  width: 31px;
+  height: 31px;
+}
+.footer-37-child36 {
+  position: absolute;
+  top: 69px;
+  left: 606px;
+  width: 37px;
+  height: 36px;
+}
+.image-135-icon13 {
+  position: absolute;
+  top: 63px;
+  left: 540px;
+  width: 51px;
+  height: 48px;
+  object-fit: cover;
+}
+.image-136-icon13,
+.image-137-icon13 {
+  position: absolute;
+  top: 68px;
+  left: 603px;
+  width: 41px;
+  height: 38px;
+  object-fit: cover;
+}
+.image-137-icon13 {
+  top: 67px;
+  left: 664px;
+  border-radius: var(--br-lg);
+  width: 42px;
+}
+.image-134-icon13 {
+  position: absolute;
+  top: 71px;
+  left: 495px;
+  width: 34px;
+  height: 34px;
+  object-fit: cover;
+}
+.footer-377 {
+  position: absolute;
+  top: 1167px;
+  left: 0;
+  background-color: var(--color-saddlebrown);
+  width: 1600px;
+  height: 250px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-roboto);
+}
+.tale-of-sadhu1,
+.the-girl-who {
+  position: absolute;
+  top: 683px;
+  left: 653px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 298px;
+  height: 73px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #6d4229;
+}
+.tale-of-sadhu1 {
+  top: 925px;
+  left: 1052px;
+}
+.a-defeated-king-container3 {
+  line-break: anywhere;
+  width: 100%;
+}
+.a-defeated-king-container2 {
+  position: absolute;
+  top: 487px;
+  left: 1072px;
+  display: flex;
+  align-items: center;
+  width: 298px;
+  height: 73px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #6d4229;
+}
+.scaling-the-mountain {
+  margin: 0;
+}
+.scaling-the-mountain-container2 {
+  position: absolute;
+  top: 519px;
+  left: 231px;
+  display: flex;
+  align-items: center;
+  width: 298px;
+  height: 73px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #6d4229;
+}
+.legends-of-lahore5,
+.welcome-to-a5 {
+  position: absolute;
+  text-align: left;
+  display: flex;
+  align-items: center;
+}
+.legends-of-lahore5 {
+  top: 184px;
+  left: 412px;
+  font-size: var(--font-size-79xl);
+  line-height: 42px;
+  font-weight: 500;
+  font-family: var(--font-playfair-display);
+  color: var(--color-gray-200);
+  width: 1075px;
+  height: 52px;
+  text-shadow: 0 0.30000001192092896px 0#000;
+}
+.welcome-to-a5 {
+  top: 266px;
+  left: 223px;
+  font-size: var(--font-size-17xl);
+  line-height: 21px;
+  font-family: var(--font-georgia);
+  color: var(--color-darkslategray-100);
+  width: 1195px;
+  height: 68px;
+}
+.icon34 {
+  position: absolute;
+  top: 0;
+  left: 27px;
+  width: 241px;
+  height: 268px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.icon-cart12,
+.vector-icon15 {
+  position: absolute;
+  height: 48.82%;
+  width: 2.08%;
+  top: 27.79%;
+  right: 2.23%;
+  bottom: 23.39%;
+  left: 95.69%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.icon-cart12 {
+  height: 45.31%;
+  width: 2.22%;
+  top: 30.56%;
+  right: 5.97%;
+  bottom: 24.13%;
+  left: 91.81%;
+}
+.activites12,
+.eat12,
+.events15,
+.gallery16,
+.kahani19,
+.map12 {
+  position: absolute;
+  top: 21px;
+  left: 1286px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 109px;
+  height: 30px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  cursor: pointer;
+}
+.activites12,
+.eat12,
+.events15,
+.kahani19,
+.map12 {
+  left: 1177px;
+}
+.eat12,
+.events15,
+.kahani19,
+.map12 {
+  top: 20px;
+  left: 1083px;
+}
+.eat12,
+.events15,
+.kahani19 {
+  left: 1017px;
+}
+.events15,
+.kahani19 {
+  left: 941px;
+}
+.kahani19 {
+  top: 21px;
+  left: 845px;
+}
+.icon-envelope-closed12 {
+  position: absolute;
+  height: 34.72%;
+  width: 2.29%;
+  top: 36.11%;
+  right: 9.58%;
+  bottom: 29.17%;
+  left: 88.13%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.navbar12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-sienna-200);
+  box-shadow: 0 4px 22px rgba(0, 0, 0, 0.12);
+  border: 1px solid var(--color-sienna-200);
+  box-sizing: border-box;
+  width: 1600px;
+  height: 72px;
+  overflow: hidden;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-actor);
+}
+.kahani18 {
+  position: relative;
+  background-color: var(--color-burlywood);
+  width: 100%;
+  height: 1417px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-21xl);
+  color: var(--color-burlywood);
+  font-family: var(--font-caladea);
+}

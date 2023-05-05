@@ -1,0 +1,878 @@
+.group-child12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-burlywood);
+  width: 1600px;
+  height: 6259px;
+}
+.image-124-icon,
+.image-125-icon,
+.image-126-icon {
+  position: absolute;
+  top: 6px;
+  left: 437px;
+  width: 460px;
+  height: 839px;
+  object-fit: cover;
+  opacity: 0.44;
+}
+.image-124-icon,
+.image-125-icon {
+  top: 0;
+  left: 912px;
+  width: 419px;
+  height: 845px;
+}
+.image-124-icon {
+  top: 6px;
+  left: 0;
+  width: 423px;
+  height: 839px;
+}
+.image-121-icon,
+.image-122-icon,
+.image-123-icon {
+  position: absolute;
+  top: 264px;
+  left: 476px;
+  border-radius: var(--br-40xl);
+  width: 368px;
+  height: 314px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.image-121-icon,
+.image-123-icon {
+  left: 26px;
+  width: 370px;
+}
+.image-123-icon {
+  top: 266px;
+  left: 937px;
+  width: 368px;
+}
+.historical-site-visit {
+  position: absolute;
+  top: 614px;
+  left: 93px;
+  line-height: 56px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 261px;
+  height: 93px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.adrenaline-rush {
+  top: 610px;
+  left: 534px;
+  width: 261px;
+}
+.activities4,
+.adrenaline-rush,
+.shopping {
+  position: absolute;
+  line-height: 56px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 93px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.activities4 {
+  top: 73px;
+  left: 382px;
+  font-size: var(--font-size-77xl);
+  width: 564px;
+}
+.shopping {
+  top: 610px;
+  left: 933px;
+  width: 398px;
+}
+.historical-site-visit1,
+.image-126-parent {
+  position: absolute;
+  top: 0;
+  left: 135px;
+  width: 1331px;
+  height: 845px;
+  font-size: var(--font-size-29xl);
+  color: var(--color-gray-200);
+  font-family: var(--font-actor);
+}
+.historical-site-visit1 {
+  left: 231px;
+  line-height: 56px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 898px;
+  height: 93px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.group-child13 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-58xl);
+  background-color: var(--color-gray-600);
+  width: 627px;
+  height: 439px;
+}
+.image-118-icon2 {
+  position: absolute;
+  top: 30.63px;
+  left: 48.72px;
+  border-radius: var(--br-30xl);
+  width: 293.63px;
+  height: 377.74px;
+  object-fit: cover;
+}
+.the-wazir-khan2,
+.wazir-khan-mosque2 {
+  position: absolute;
+  top: 98px;
+  left: 363px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 228px;
+  height: 77px;
+}
+.the-wazir-khan2 {
+  top: 196.53px;
+  left: 383.38px;
+  font-size: var(--text-sm-normal-size);
+  color: var(--color-burlywood);
+  width: 192.33px;
+  height: 153.14px;
+}
+.group-child14,
+.rectangle-parent12 {
+  position: absolute;
+  top: 126px;
+  left: 0;
+  width: 627px;
+  height: 439px;
+}
+.group-child14 {
+  top: 0;
+  border-radius: var(--br-58xl);
+  background-color: var(--color-gray-600);
+  height: 429px;
+}
+.gali-surjan-singh4,
+.gali-surjan-singh5 {
+  position: absolute;
+  top: 105px;
+  left: 366px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 217px;
+  height: 75px;
+}
+.gali-surjan-singh5 {
+  top: 209px;
+  left: 378px;
+  font-size: var(--text-sm-normal-size);
+  color: var(--color-burlywood);
+  width: 192.33px;
+  height: 149.65px;
+}
+.image-119-icon8 {
+  position: absolute;
+  top: 29.93px;
+  left: 51.29px;
+  border-radius: var(--br-30xl);
+  width: 293.63px;
+  height: 369.14px;
+  object-fit: cover;
+}
+.rectangle-parent13 {
+  position: absolute;
+  top: 126px;
+  left: 704px;
+  width: 627px;
+  height: 429px;
+}
+.shalamar-gardens2 {
+  position: absolute;
+  top: 95px;
+  left: 383px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 183.36px;
+  height: 74.83px;
+}
+.mughal-garden5 {
+  text-decoration: underline;
+}
+.the-shalamar-gardens-container4 {
+  position: absolute;
+  top: 192.05px;
+  left: 383.38px;
+  font-size: var(--text-sm-normal-size);
+  color: inherit;
+  display: flex;
+  align-items: center;
+  width: 192.33px;
+  height: 149.65px;
+}
+.rectangle-parent14 {
+  position: absolute;
+  top: 630px;
+  left: 356px;
+  width: 627px;
+  height: 429px;
+}
+.lahore-railway-station4,
+.lahore-railway-station5 {
+  position: absolute;
+  top: 96px;
+  left: 363px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 256px;
+  height: 48px;
+}
+.lahore-railway-station5 {
+  top: 192.05px;
+  left: 383.38px;
+  font-size: var(--text-sm-normal-size);
+  color: var(--color-burlywood);
+  width: 192.33px;
+  height: 149.65px;
+}
+.group-wrapper1,
+.rectangle-parent15 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 627px;
+  height: 429px;
+}
+.group-wrapper1 {
+  top: 1124px;
+  font-size: var(--font-size-15xl);
+}
+.food-street-in-container4,
+.food-street2 {
+  position: absolute;
+  left: 392px;
+  display: flex;
+  align-items: center;
+}
+.food-street2 {
+  top: 96px;
+  justify-content: center;
+  width: 202px;
+  height: 38px;
+}
+.food-street-in-container4 {
+  top: 163px;
+  font-size: var(--text-sm-normal-size);
+  color: inherit;
+  width: 192.33px;
+  height: 157.13px;
+}
+.image-119-icon11 {
+  position: absolute;
+  top: 29.93px;
+  left: 60.29px;
+  border-radius: var(--br-30xl);
+  width: 293.63px;
+  height: 369.14px;
+  object-fit: cover;
+}
+.rectangle-parent16 {
+  position: absolute;
+  top: 1117px;
+  left: 704px;
+  width: 627px;
+  height: 429px;
+}
+.historical-site-visit-parent {
+  position: absolute;
+  top: 999px;
+  left: 135px;
+  width: 1331px;
+  height: 1553px;
+  font-size: var(--font-size-17xl);
+}
+.adrenaline-rush1,
+.joyland,
+.joyland-is-a {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.adrenaline-rush1 {
+  top: 0;
+  left: 216px;
+  font-size: var(--font-size-29xl);
+  line-height: 56px;
+  font-family: var(--font-actor);
+  color: var(--color-gray-200);
+  width: 898px;
+  height: 93px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.joyland,
+.joyland-is-a {
+  top: 109px;
+  left: 347px;
+  width: 256px;
+  height: 48px;
+}
+.joyland-is-a {
+  top: 172px;
+  left: 379px;
+  font-size: var(--text-sm-normal-size);
+  color: var(--color-burlywood);
+  width: 192.33px;
+  height: 149.65px;
+}
+.group-wrapper2 {
+  position: absolute;
+  top: 143px;
+  left: 0;
+  width: 627px;
+  height: 429px;
+}
+.are-you-ready,
+.go-karting {
+  position: absolute;
+  top: 94px;
+  left: 348px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 256px;
+  height: 48px;
+}
+.are-you-ready {
+  top: 157px;
+  left: 379px;
+  font-size: var(--text-sm-normal-size);
+  color: var(--color-burlywood);
+  width: 211px;
+  height: 206px;
+}
+.group-wrapper3 {
+  position: absolute;
+  top: 604px;
+  left: 381px;
+  width: 627px;
+  height: 429px;
+}
+.located-in-emporium {
+  position: absolute;
+  top: 155px;
+  left: 379px;
+  font-size: var(--text-sm-normal-size);
+  color: var(--color-burlywood);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 192.33px;
+  height: 149.65px;
+}
+.group-wrapper4 {
+  position: absolute;
+  top: 125px;
+  left: 708px;
+  width: 627px;
+  height: 429px;
+}
+.gymkhana {
+  margin: 0;
+}
+.gymkhana-golf-resort-container,
+.one-of-the {
+  position: absolute;
+  top: 107px;
+  left: 355px;
+  display: flex;
+  align-items: center;
+  width: 256px;
+  height: 48px;
+}
+.one-of-the {
+  top: 163px;
+  left: 386px;
+  font-size: var(--text-sm-normal-size);
+  color: var(--color-burlywood);
+  justify-content: center;
+  width: 192.33px;
+  height: 149.65px;
+}
+.group-wrapper5 {
+  position: absolute;
+  top: 1070px;
+  left: 0;
+  width: 627px;
+  height: 429px;
+}
+.oasis,
+.theres-an-oasis {
+  position: absolute;
+  top: 96px;
+  left: 383px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 202px;
+  height: 38px;
+}
+.theres-an-oasis {
+  top: 169px;
+  font-size: var(--text-sm-normal-size);
+  color: var(--color-burlywood);
+  width: 192.33px;
+  height: 157.13px;
+}
+.rectangle-parent21 {
+  position: absolute;
+  top: 1083px;
+  left: 708px;
+  width: 627px;
+  height: 429px;
+  font-size: var(--font-size-17xl);
+}
+.adrenaline-rush-parent {
+  position: absolute;
+  top: 2688px;
+  left: 135px;
+  width: 1335px;
+  height: 1512px;
+}
+.shopping1,
+.this-bazaar-is {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.shopping1 {
+  top: 0;
+  left: 230px;
+  font-size: var(--font-size-29xl);
+  line-height: 56px;
+  font-family: var(--font-actor);
+  color: var(--color-gray-200);
+  width: 898px;
+  height: 93px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.this-bazaar-is {
+  top: 156px;
+  left: 379px;
+  font-size: var(--text-sm-normal-size);
+  color: var(--color-burlywood);
+  width: 192.33px;
+}
+.group-wrapper6 {
+  position: absolute;
+  top: 149px;
+  left: 0;
+  width: 627px;
+  height: 429px;
+}
+.emporium-mall-txt-container {
+  line-break: anywhere;
+  width: 100%;
+}
+.emporium-mall,
+.located-near-expo {
+  position: absolute;
+  top: 118px;
+  left: 343px;
+  display: flex;
+  align-items: center;
+  width: 256px;
+  height: 48px;
+}
+.located-near-expo {
+  top: 131px;
+  left: 366px;
+  font-size: var(--text-sm-normal-size);
+  color: var(--color-burlywood);
+  justify-content: center;
+  width: 211px;
+  height: 206px;
+}
+.image-119-icon18 {
+  position: absolute;
+  top: 18.93px;
+  left: 46.29px;
+  border-radius: var(--br-30xl);
+  width: 293.63px;
+  height: 369.14px;
+  object-fit: cover;
+}
+.group-wrapper7,
+.liberty-market {
+  position: absolute;
+  top: 621px;
+  left: 397px;
+  width: 627px;
+  height: 429px;
+}
+.liberty-market {
+  top: 131px;
+  left: 347px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 256px;
+  height: 48px;
+}
+.group-wrapper8 {
+  position: absolute;
+  top: 157px;
+  left: 708px;
+  width: 627px;
+  height: 429px;
+}
+.akbari-market,
+.anyone-approaching-delhi {
+  position: absolute;
+  top: 91px;
+  left: 351px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 256px;
+  height: 48px;
+}
+.anyone-approaching-delhi {
+  top: 186px;
+  left: 377px;
+  font-size: var(--text-sm-normal-size);
+  color: var(--color-burlywood);
+  width: 192.33px;
+  height: 149.65px;
+}
+.group-wrapper9 {
+  position: absolute;
+  top: 1101px;
+  left: 0;
+  width: 627px;
+  height: 429px;
+}
+.mughal-emperor {
+  color: inherit;
+}
+.the-shah-almi-gate-container {
+  position: absolute;
+  top: 161px;
+  left: 378px;
+  font-size: var(--text-sm-normal-size);
+  color: inherit;
+  display: flex;
+  align-items: center;
+  width: 229px;
+}
+.rectangle-parent26 {
+  position: absolute;
+  top: 1114px;
+  left: 708px;
+  width: 627px;
+  height: 429px;
+  font-size: var(--font-size-17xl);
+}
+.shopping-parent {
+  position: absolute;
+  top: 4330px;
+  left: 135px;
+  width: 1335px;
+  height: 1543px;
+}
+.footer-37-child47 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-sienna-200);
+  box-shadow: var(--shadow-200);
+  width: 1600px;
+  height: 153px;
+}
+.follow-us16,
+.subscribe-to-newsletter16 {
+  position: absolute;
+  top: 34px;
+  left: 859px;
+  display: inline-block;
+  width: 278px;
+  height: 29px;
+}
+.follow-us16 {
+  top: 29px;
+  left: 467px;
+  width: 154px;
+}
+.footer-37-child48 {
+  position: absolute;
+  top: 27.5px;
+  left: 817.5px;
+  border-right: 3px solid var(--cold-grey-10);
+  box-sizing: border-box;
+  width: 3px;
+  height: 109px;
+}
+.text16 {
+  position: absolute;
+  height: 6.15%;
+  top: 72.69%;
+  left: 46.88%;
+  font-size: var(--text-sm-normal-size);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.contact-us17,
+.maps17,
+.privacy-policy16,
+.shop18 {
+  position: absolute;
+  height: 100%;
+  width: 26.71%;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-shadow: -2px 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px rgba(79, 29, 29, 0.19);
+  cursor: pointer;
+}
+.contact-us17,
+.maps17,
+.shop18 {
+  width: 11.11%;
+  left: 36.41%;
+}
+.contact-us17,
+.shop18 {
+  width: 9.93%;
+  left: 58.16%;
+}
+.contact-us17 {
+  width: 21.28%;
+  left: 78.72%;
+}
+.privacy-policy-parent14 {
+  position: absolute;
+  height: 6.92%;
+  width: 26.44%;
+  top: 72%;
+  right: 35.69%;
+  bottom: 21.08%;
+  left: 37.88%;
+  font-size: var(--text-md-medium-size);
+}
+.all-rights-reserved16 {
+  position: absolute;
+  height: 87.5%;
+  width: 84.21%;
+  top: 6.25%;
+  left: 0;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.copyright16 {
+  position: absolute;
+  top: 221px;
+  left: calc(50% - 79px);
+  width: 234px;
+  height: 16px;
+  font-size: var(--text-md-medium-size);
+}
+.subscribe-child14 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--cold-grey-10);
+  box-shadow: 0 6px 12px -6px rgba(255, 255, 255, 0.12),
+    0 8px 24px -4px rgba(255, 255, 255, 0.08);
+}
+.enter-your-email16 {
+  position: absolute;
+  width: 70.86%;
+  top: 30%;
+  left: 2.29%;
+  display: inline-block;
+}
+.subscribe33 {
+  position: relative;
+}
+.buttonstarted16 {
+  position: absolute;
+  height: 80%;
+  width: 26.22%;
+  top: 10%;
+  right: 0.68%;
+  bottom: 10%;
+  left: 73.1%;
+  background-color: var(--cold-grey-white);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-8xs) var(--padding-7xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: var(--text-sm-normal-size);
+  color: var(--color-saddlebrown);
+}
+.subscribe32 {
+  position: absolute;
+  top: 63px;
+  left: 876px;
+  width: 560px;
+  height: 42px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--cold-grey-30);
+}
+.image-41-icon16,
+.image-42-icon16,
+.image-43-icon16 {
+  position: absolute;
+  height: 100%;
+  width: 55.03%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 44.97%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.image-42-icon16,
+.image-43-icon16 {
+  height: 43.39%;
+  width: 29.15%;
+  top: 34.06%;
+  right: 38.44%;
+  bottom: 22.55%;
+  left: 32.41%;
+}
+.image-43-icon16 {
+  height: 42.92%;
+  width: 41.96%;
+  top: 34.53%;
+  right: 58.04%;
+  left: 0;
+}
+.image-41-parent14 {
+  position: absolute;
+  height: 82.44%;
+  width: 26.86%;
+  top: -46.92%;
+  right: -2.73%;
+  bottom: 64.49%;
+  left: 75.88%;
+}
+.icon39 {
+  position: absolute;
+  top: -34px;
+  left: 58px;
+  width: 398px;
+  height: 181px;
+  object-fit: cover;
+}
+.footer-37-child49 {
+  position: absolute;
+  top: 72px;
+  left: 498px;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-gainsboro-100);
+  width: 30px;
+  height: 30px;
+}
+.footer-37-child50 {
+  position: absolute;
+  top: 72px;
+  left: 550px;
+  width: 31px;
+  height: 31px;
+}
+.footer-37-child51 {
+  position: absolute;
+  top: 69px;
+  left: 606px;
+  width: 37px;
+  height: 36px;
+}
+.image-135-icon16 {
+  position: absolute;
+  top: 63px;
+  left: 540px;
+  width: 51px;
+  height: 48px;
+  object-fit: cover;
+}
+.image-136-icon16,
+.image-137-icon16 {
+  position: absolute;
+  top: 68px;
+  left: 603px;
+  width: 41px;
+  height: 38px;
+  object-fit: cover;
+}
+.image-137-icon16 {
+  top: 67px;
+  left: 664px;
+  border-radius: var(--br-lg);
+  width: 42px;
+}
+.image-134-icon16 {
+  position: absolute;
+  top: 71px;
+  left: 495px;
+  width: 34px;
+  height: 34px;
+  object-fit: cover;
+}
+.footer-3710,
+.rectangle-parent11 {
+  position: absolute;
+  left: 0;
+  width: 1600px;
+}
+.footer-3710 {
+  top: 6009px;
+  background-color: var(--color-saddlebrown);
+  height: 250px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-burlywood);
+  font-family: var(--font-roboto);
+}
+.rectangle-parent11 {
+  top: 0;
+  height: 6259px;
+}
+.group-root {
+  position: relative;
+  width: 100%;
+  height: 6259px;
+  text-align: center;
+  font-size: var(--font-size-15xl);
+  color: var(--cold-grey-white);
+  font-family: var(--font-libre-bodoni);
+}
