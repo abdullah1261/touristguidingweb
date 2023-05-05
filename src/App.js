@@ -307,6 +307,14 @@ function App() {
       <Route path="/maps" element={<Maps />} />
       <Route path="/contact-us" element={<ContactUs />} />
       <Route path="/gallery" element={<Gallery />} />
+     <Route path="/new" element={<New />} />
+      <Route path="/menu" element={<Menu />} />
+      <Route path="/foodmainpage" element={<FoodMainPage />} />
+      <Route path="/contact2" element={<Contact2 />} />
+      <Route path="/contact21" element={<Contact21 />} />
+      <Route path="/signup" element={<Signup />} />
+      <Route path="/login" element={<Login />} />
+      <Route path="/homepage" element={<Homepage />} />
     </Routes>
   );
 }
